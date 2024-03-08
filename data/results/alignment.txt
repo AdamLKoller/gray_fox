@@ -1,0 +1,2736 @@
+589027 reads; of these:
+  589027 (100.00%) were unpaired; of these:
+    15102 (2.56%) aligned 0 times
+    487492 (82.76%) aligned exactly 1 time
+    86433 (14.67%) aligned >1 times
+97.44% overall alignment rate
+127591 reads; of these:
+  127591 (100.00%) were unpaired; of these:
+    16959 (13.29%) aligned 0 times
+    84604 (66.31%) aligned exactly 1 time
+    26028 (20.40%) aligned >1 times
+86.71% overall alignment rate
+401701 reads; of these:
+  401701 (100.00%) were unpaired; of these:
+    54809 (13.64%) aligned 0 times
+    288173 (71.74%) aligned exactly 1 time
+    58719 (14.62%) aligned >1 times
+86.36% overall alignment rate
+1412262 reads; of these:
+  1412262 (100.00%) were unpaired; of these:
+    345954 (24.50%) aligned 0 times
+    896858 (63.51%) aligned exactly 1 time
+    169450 (12.00%) aligned >1 times
+75.50% overall alignment rate
+673826 reads; of these:
+  673826 (100.00%) were unpaired; of these:
+    18341 (2.72%) aligned 0 times
+    547388 (81.24%) aligned exactly 1 time
+    108097 (16.04%) aligned >1 times
+97.28% overall alignment rate
+1374662 reads; of these:
+  1374662 (100.00%) were unpaired; of these:
+    25789 (1.88%) aligned 0 times
+    1170202 (85.13%) aligned exactly 1 time
+    178671 (13.00%) aligned >1 times
+98.12% overall alignment rate
+824650 reads; of these:
+  824650 (100.00%) were unpaired; of these:
+    112568 (13.65%) aligned 0 times
+    602841 (73.10%) aligned exactly 1 time
+    109241 (13.25%) aligned >1 times
+86.35% overall alignment rate
+704453 reads; of these:
+  704453 (100.00%) were unpaired; of these:
+    77168 (10.95%) aligned 0 times
+    534292 (75.84%) aligned exactly 1 time
+    92993 (13.20%) aligned >1 times
+89.05% overall alignment rate
+796082 reads; of these:
+  796082 (100.00%) were unpaired; of these:
+    9763 (1.23%) aligned 0 times
+    684091 (85.93%) aligned exactly 1 time
+    102228 (12.84%) aligned >1 times
+98.77% overall alignment rate
+20324 reads; of these:
+  20324 (100.00%) were unpaired; of these:
+    1611 (7.93%) aligned 0 times
+    13815 (67.97%) aligned exactly 1 time
+    4898 (24.10%) aligned >1 times
+92.07% overall alignment rate
+52168 reads; of these:
+  52168 (100.00%) were unpaired; of these:
+    746 (1.43%) aligned 0 times
+    40571 (77.77%) aligned exactly 1 time
+    10851 (20.80%) aligned >1 times
+98.57% overall alignment rate
+722004 reads; of these:
+  722004 (100.00%) were unpaired; of these:
+    8165 (1.13%) aligned 0 times
+    620317 (85.92%) aligned exactly 1 time
+    93522 (12.95%) aligned >1 times
+98.87% overall alignment rate
+1440728 reads; of these:
+  1440728 (100.00%) were unpaired; of these:
+    38890 (2.70%) aligned 0 times
+    1210730 (84.04%) aligned exactly 1 time
+    191108 (13.26%) aligned >1 times
+97.30% overall alignment rate
+1532076 reads; of these:
+  1532076 (100.00%) were unpaired; of these:
+    91304 (5.96%) aligned 0 times
+    1247423 (81.42%) aligned exactly 1 time
+    193349 (12.62%) aligned >1 times
+94.04% overall alignment rate
+740380 reads; of these:
+  740380 (100.00%) were unpaired; of these:
+    36047 (4.87%) aligned 0 times
+    609732 (82.35%) aligned exactly 1 time
+    94601 (12.78%) aligned >1 times
+95.13% overall alignment rate
+714959 reads; of these:
+  714959 (100.00%) were unpaired; of these:
+    14027 (1.96%) aligned 0 times
+    603598 (84.42%) aligned exactly 1 time
+    97334 (13.61%) aligned >1 times
+98.04% overall alignment rate
+340845 reads; of these:
+  340845 (100.00%) were unpaired; of these:
+    130359 (38.25%) aligned 0 times
+    174897 (51.31%) aligned exactly 1 time
+    35589 (10.44%) aligned >1 times
+61.75% overall alignment rate
+1277846 reads; of these:
+  1277846 (100.00%) were unpaired; of these:
+    20278 (1.59%) aligned 0 times
+    1085844 (84.97%) aligned exactly 1 time
+    171724 (13.44%) aligned >1 times
+98.41% overall alignment rate
+1282975 reads; of these:
+  1282975 (100.00%) were unpaired; of these:
+    547647 (42.69%) aligned 0 times
+    632114 (49.27%) aligned exactly 1 time
+    103214 (8.04%) aligned >1 times
+57.31% overall alignment rate
+1597835 reads; of these:
+  1597835 (100.00%) were unpaired; of these:
+    41240 (2.58%) aligned 0 times
+    1327098 (83.06%) aligned exactly 1 time
+    229497 (14.36%) aligned >1 times
+97.42% overall alignment rate
+527588 reads; of these:
+  527588 (100.00%) were unpaired; of these:
+    12487 (2.37%) aligned 0 times
+    442517 (83.88%) aligned exactly 1 time
+    72584 (13.76%) aligned >1 times
+97.63% overall alignment rate
+785941 reads; of these:
+  785941 (100.00%) were unpaired; of these:
+    12894 (1.64%) aligned 0 times
+    657760 (83.69%) aligned exactly 1 time
+    115287 (14.67%) aligned >1 times
+98.36% overall alignment rate
+1051939 reads; of these:
+  1051939 (100.00%) were unpaired; of these:
+    226624 (21.54%) aligned 0 times
+    706076 (67.12%) aligned exactly 1 time
+    119239 (11.34%) aligned >1 times
+78.46% overall alignment rate
+928980 reads; of these:
+  928980 (100.00%) were unpaired; of these:
+    12780 (1.38%) aligned 0 times
+    796588 (85.75%) aligned exactly 1 time
+    119612 (12.88%) aligned >1 times
+98.62% overall alignment rate
+785959 reads; of these:
+  785959 (100.00%) were unpaired; of these:
+    17509 (2.23%) aligned 0 times
+    670036 (85.25%) aligned exactly 1 time
+    98414 (12.52%) aligned >1 times
+97.77% overall alignment rate
+694179 reads; of these:
+  694179 (100.00%) were unpaired; of these:
+    19831 (2.86%) aligned 0 times
+    575883 (82.96%) aligned exactly 1 time
+    98465 (14.18%) aligned >1 times
+97.14% overall alignment rate
+2339538 reads; of these:
+  2339538 (100.00%) were unpaired; of these:
+    1032435 (44.13%) aligned 0 times
+    1137131 (48.60%) aligned exactly 1 time
+    169972 (7.27%) aligned >1 times
+55.87% overall alignment rate
+2120597 reads; of these:
+  2120597 (100.00%) were unpaired; of these:
+    24214 (1.14%) aligned 0 times
+    1789948 (84.41%) aligned exactly 1 time
+    306435 (14.45%) aligned >1 times
+98.86% overall alignment rate
+699077 reads; of these:
+  699077 (100.00%) were unpaired; of these:
+    16494 (2.36%) aligned 0 times
+    571332 (81.73%) aligned exactly 1 time
+    111251 (15.91%) aligned >1 times
+97.64% overall alignment rate
+1966747 reads; of these:
+  1966747 (100.00%) were unpaired; of these:
+    445911 (22.67%) aligned 0 times
+    1315299 (66.88%) aligned exactly 1 time
+    205537 (10.45%) aligned >1 times
+77.33% overall alignment rate
+932147 reads; of these:
+  932147 (100.00%) were unpaired; of these:
+    14830 (1.59%) aligned 0 times
+    795810 (85.37%) aligned exactly 1 time
+    121507 (13.04%) aligned >1 times
+98.41% overall alignment rate
+1154784 reads; of these:
+  1154784 (100.00%) were unpaired; of these:
+    67771 (5.87%) aligned 0 times
+    941502 (81.53%) aligned exactly 1 time
+    145511 (12.60%) aligned >1 times
+94.13% overall alignment rate
+27504718 reads; of these:
+  27504718 (100.00%) were unpaired; of these:
+    26791024 (97.41%) aligned 0 times
+    610454 (2.22%) aligned exactly 1 time
+    103240 (0.38%) aligned >1 times
+2.59% overall alignment rate
+367287 reads; of these:
+  367287 (100.00%) were unpaired; of these:
+    310770 (84.61%) aligned 0 times
+    41326 (11.25%) aligned exactly 1 time
+    15191 (4.14%) aligned >1 times
+15.39% overall alignment rate
+430817 reads; of these:
+  430817 (100.00%) were unpaired; of these:
+    4907 (1.14%) aligned 0 times
+    349591 (81.15%) aligned exactly 1 time
+    76319 (17.71%) aligned >1 times
+98.86% overall alignment rate
+1352277 reads; of these:
+  1352277 (100.00%) were unpaired; of these:
+    363948 (26.91%) aligned 0 times
+    833724 (61.65%) aligned exactly 1 time
+    154605 (11.43%) aligned >1 times
+73.09% overall alignment rate
+1358871 reads; of these:
+  1358871 (100.00%) were unpaired; of these:
+    336815 (24.79%) aligned 0 times
+    889145 (65.43%) aligned exactly 1 time
+    132911 (9.78%) aligned >1 times
+75.21% overall alignment rate
+752147 reads; of these:
+  752147 (100.00%) were unpaired; of these:
+    23289 (3.10%) aligned 0 times
+    613557 (81.57%) aligned exactly 1 time
+    115301 (15.33%) aligned >1 times
+96.90% overall alignment rate
+626521 reads; of these:
+  626521 (100.00%) were unpaired; of these:
+    14932 (2.38%) aligned 0 times
+    528228 (84.31%) aligned exactly 1 time
+    83361 (13.31%) aligned >1 times
+97.62% overall alignment rate
+688676 reads; of these:
+  688676 (100.00%) were unpaired; of these:
+    92088 (13.37%) aligned 0 times
+    509117 (73.93%) aligned exactly 1 time
+    87471 (12.70%) aligned >1 times
+86.63% overall alignment rate
+2008550 reads; of these:
+  2008550 (100.00%) were unpaired; of these:
+    669160 (33.32%) aligned 0 times
+    1149077 (57.21%) aligned exactly 1 time
+    190313 (9.48%) aligned >1 times
+66.68% overall alignment rate
+109078 reads; of these:
+  109078 (100.00%) were unpaired; of these:
+    8577 (7.86%) aligned 0 times
+    79640 (73.01%) aligned exactly 1 time
+    20861 (19.12%) aligned >1 times
+92.14% overall alignment rate
+1269379 reads; of these:
+  1269379 (100.00%) were unpaired; of these:
+    33639 (2.65%) aligned 0 times
+    1071618 (84.42%) aligned exactly 1 time
+    164122 (12.93%) aligned >1 times
+97.35% overall alignment rate
+1089606 reads; of these:
+  1089606 (100.00%) were unpaired; of these:
+    256906 (23.58%) aligned 0 times
+    720501 (66.12%) aligned exactly 1 time
+    112199 (10.30%) aligned >1 times
+76.42% overall alignment rate
+542658 reads; of these:
+  542658 (100.00%) were unpaired; of these:
+    114710 (21.14%) aligned 0 times
+    359786 (66.30%) aligned exactly 1 time
+    68162 (12.56%) aligned >1 times
+78.86% overall alignment rate
+398924 reads; of these:
+  398924 (100.00%) were unpaired; of these:
+    26490 (6.64%) aligned 0 times
+    312475 (78.33%) aligned exactly 1 time
+    59959 (15.03%) aligned >1 times
+93.36% overall alignment rate
+517872 reads; of these:
+  517872 (100.00%) were unpaired; of these:
+    23881 (4.61%) aligned 0 times
+    425957 (82.25%) aligned exactly 1 time
+    68034 (13.14%) aligned >1 times
+95.39% overall alignment rate
+1071807 reads; of these:
+  1071807 (100.00%) were unpaired; of these:
+    12830 (1.20%) aligned 0 times
+    919670 (85.81%) aligned exactly 1 time
+    139307 (13.00%) aligned >1 times
+98.80% overall alignment rate
+1511246 reads; of these:
+  1511246 (100.00%) were unpaired; of these:
+    767709 (50.80%) aligned 0 times
+    632978 (41.88%) aligned exactly 1 time
+    110559 (7.32%) aligned >1 times
+49.20% overall alignment rate
+1622669 reads; of these:
+  1622669 (100.00%) were unpaired; of these:
+    338341 (20.85%) aligned 0 times
+    1104841 (68.09%) aligned exactly 1 time
+    179487 (11.06%) aligned >1 times
+79.15% overall alignment rate
+2005618 reads; of these:
+  2005618 (100.00%) were unpaired; of these:
+    970985 (48.41%) aligned 0 times
+    883045 (44.03%) aligned exactly 1 time
+    151588 (7.56%) aligned >1 times
+51.59% overall alignment rate
+318312 reads; of these:
+  318312 (100.00%) were unpaired; of these:
+    6971 (2.19%) aligned 0 times
+    265005 (83.25%) aligned exactly 1 time
+    46336 (14.56%) aligned >1 times
+97.81% overall alignment rate
+889150 reads; of these:
+  889150 (100.00%) were unpaired; of these:
+    15672 (1.76%) aligned 0 times
+    754311 (84.84%) aligned exactly 1 time
+    119167 (13.40%) aligned >1 times
+98.24% overall alignment rate
+2204751 reads; of these:
+  2204751 (100.00%) were unpaired; of these:
+    400319 (18.16%) aligned 0 times
+    1554872 (70.52%) aligned exactly 1 time
+    249560 (11.32%) aligned >1 times
+81.84% overall alignment rate
+565604 reads; of these:
+  565604 (100.00%) were unpaired; of these:
+    12720 (2.25%) aligned 0 times
+    456075 (80.64%) aligned exactly 1 time
+    96809 (17.12%) aligned >1 times
+97.75% overall alignment rate
+1108984 reads; of these:
+  1108984 (100.00%) were unpaired; of these:
+    26791 (2.42%) aligned 0 times
+    931442 (83.99%) aligned exactly 1 time
+    150751 (13.59%) aligned >1 times
+97.58% overall alignment rate
+1680275 reads; of these:
+  1680275 (100.00%) were unpaired; of these:
+    44218 (2.63%) aligned 0 times
+    1440726 (85.74%) aligned exactly 1 time
+    195331 (11.62%) aligned >1 times
+97.37% overall alignment rate
+282265 reads; of these:
+  282265 (100.00%) were unpaired; of these:
+    15832 (5.61%) aligned 0 times
+    220907 (78.26%) aligned exactly 1 time
+    45526 (16.13%) aligned >1 times
+94.39% overall alignment rate
+586324 reads; of these:
+  586324 (100.00%) were unpaired; of these:
+    333551 (56.89%) aligned 0 times
+    209214 (35.68%) aligned exactly 1 time
+    43559 (7.43%) aligned >1 times
+43.11% overall alignment rate
+966017 reads; of these:
+  966017 (100.00%) were unpaired; of these:
+    19786 (2.05%) aligned 0 times
+    815936 (84.46%) aligned exactly 1 time
+    130295 (13.49%) aligned >1 times
+97.95% overall alignment rate
+2174400 reads; of these:
+  2174400 (100.00%) were unpaired; of these:
+    373907 (17.20%) aligned 0 times
+    1545974 (71.10%) aligned exactly 1 time
+    254519 (11.71%) aligned >1 times
+82.80% overall alignment rate
+3816496 reads; of these:
+  3816496 (100.00%) were unpaired; of these:
+    3262601 (85.49%) aligned 0 times
+    458799 (12.02%) aligned exactly 1 time
+    95096 (2.49%) aligned >1 times
+14.51% overall alignment rate
+340477 reads; of these:
+  340477 (100.00%) were unpaired; of these:
+    5170 (1.52%) aligned 0 times
+    287473 (84.43%) aligned exactly 1 time
+    47834 (14.05%) aligned >1 times
+98.48% overall alignment rate
+1019312 reads; of these:
+  1019312 (100.00%) were unpaired; of these:
+    13482 (1.32%) aligned 0 times
+    879847 (86.32%) aligned exactly 1 time
+    125983 (12.36%) aligned >1 times
+98.68% overall alignment rate
+1001427 reads; of these:
+  1001427 (100.00%) were unpaired; of these:
+    369340 (36.88%) aligned 0 times
+    532486 (53.17%) aligned exactly 1 time
+    99601 (9.95%) aligned >1 times
+63.12% overall alignment rate
+656088 reads; of these:
+  656088 (100.00%) were unpaired; of these:
+    111174 (16.94%) aligned 0 times
+    465397 (70.94%) aligned exactly 1 time
+    79517 (12.12%) aligned >1 times
+83.06% overall alignment rate
+721211 reads; of these:
+  721211 (100.00%) were unpaired; of these:
+    29767 (4.13%) aligned 0 times
+    590345 (81.85%) aligned exactly 1 time
+    101099 (14.02%) aligned >1 times
+95.87% overall alignment rate
+84367 reads; of these:
+  84367 (100.00%) were unpaired; of these:
+    1195 (1.42%) aligned 0 times
+    65781 (77.97%) aligned exactly 1 time
+    17391 (20.61%) aligned >1 times
+98.58% overall alignment rate
+1079877 reads; of these:
+  1079877 (100.00%) were unpaired; of these:
+    27143 (2.51%) aligned 0 times
+    918268 (85.03%) aligned exactly 1 time
+    134466 (12.45%) aligned >1 times
+97.49% overall alignment rate
+1071907 reads; of these:
+  1071907 (100.00%) were unpaired; of these:
+    37254 (3.48%) aligned 0 times
+    898689 (83.84%) aligned exactly 1 time
+    135964 (12.68%) aligned >1 times
+96.52% overall alignment rate
+1975839 reads; of these:
+  1975839 (100.00%) were unpaired; of these:
+    1096650 (55.50%) aligned 0 times
+    754746 (38.20%) aligned exactly 1 time
+    124443 (6.30%) aligned >1 times
+44.50% overall alignment rate
+144852 reads; of these:
+  144852 (100.00%) were unpaired; of these:
+    47710 (32.94%) aligned 0 times
+    78460 (54.17%) aligned exactly 1 time
+    18682 (12.90%) aligned >1 times
+67.06% overall alignment rate
+1652084 reads; of these:
+  1652084 (100.00%) were unpaired; of these:
+    36967 (2.24%) aligned 0 times
+    1402627 (84.90%) aligned exactly 1 time
+    212490 (12.86%) aligned >1 times
+97.76% overall alignment rate
+580644 reads; of these:
+  580644 (100.00%) were unpaired; of these:
+    38476 (6.63%) aligned 0 times
+    463998 (79.91%) aligned exactly 1 time
+    78170 (13.46%) aligned >1 times
+93.37% overall alignment rate
+1320456 reads; of these:
+  1320456 (100.00%) were unpaired; of these:
+    1124515 (85.16%) aligned 0 times
+    112252 (8.50%) aligned exactly 1 time
+    83689 (6.34%) aligned >1 times
+14.84% overall alignment rate
+1533474 reads; of these:
+  1533474 (100.00%) were unpaired; of these:
+    52459 (3.42%) aligned 0 times
+    1292613 (84.29%) aligned exactly 1 time
+    188402 (12.29%) aligned >1 times
+96.58% overall alignment rate
+1057393 reads; of these:
+  1057393 (100.00%) were unpaired; of these:
+    71340 (6.75%) aligned 0 times
+    845777 (79.99%) aligned exactly 1 time
+    140276 (13.27%) aligned >1 times
+93.25% overall alignment rate
+1707412 reads; of these:
+  1707412 (100.00%) were unpaired; of these:
+    516948 (30.28%) aligned 0 times
+    1026564 (60.12%) aligned exactly 1 time
+    163900 (9.60%) aligned >1 times
+69.72% overall alignment rate
+1733763 reads; of these:
+  1733763 (100.00%) were unpaired; of these:
+    28665 (1.65%) aligned 0 times
+    1483082 (85.54%) aligned exactly 1 time
+    222016 (12.81%) aligned >1 times
+98.35% overall alignment rate
+1240580 reads; of these:
+  1240580 (100.00%) were unpaired; of these:
+    16226 (1.31%) aligned 0 times
+    1056344 (85.15%) aligned exactly 1 time
+    168010 (13.54%) aligned >1 times
+98.69% overall alignment rate
+823041 reads; of these:
+  823041 (100.00%) were unpaired; of these:
+    34432 (4.18%) aligned 0 times
+    683717 (83.07%) aligned exactly 1 time
+    104892 (12.74%) aligned >1 times
+95.82% overall alignment rate
+447440 reads; of these:
+  447440 (100.00%) were unpaired; of these:
+    439515 (98.23%) aligned 0 times
+    5987 (1.34%) aligned exactly 1 time
+    1938 (0.43%) aligned >1 times
+1.77% overall alignment rate
+798327 reads; of these:
+  798327 (100.00%) were unpaired; of these:
+    10928 (1.37%) aligned 0 times
+    665969 (83.42%) aligned exactly 1 time
+    121430 (15.21%) aligned >1 times
+98.63% overall alignment rate
+2881390 reads; of these:
+  2881390 (100.00%) were unpaired; of these:
+    1358000 (47.13%) aligned 0 times
+    1313341 (45.58%) aligned exactly 1 time
+    210049 (7.29%) aligned >1 times
+52.87% overall alignment rate
+1309195 reads; of these:
+  1309195 (100.00%) were unpaired; of these:
+    30734 (2.35%) aligned 0 times
+    1108210 (84.65%) aligned exactly 1 time
+    170251 (13.00%) aligned >1 times
+97.65% overall alignment rate
+4196098 reads; of these:
+  4196098 (100.00%) were unpaired; of these:
+    2687060 (64.04%) aligned 0 times
+    1305785 (31.12%) aligned exactly 1 time
+    203253 (4.84%) aligned >1 times
+35.96% overall alignment rate
+978094 reads; of these:
+  978094 (100.00%) were unpaired; of these:
+    49965 (5.11%) aligned 0 times
+    801848 (81.98%) aligned exactly 1 time
+    126281 (12.91%) aligned >1 times
+94.89% overall alignment rate
+98081 reads; of these:
+  98081 (100.00%) were unpaired; of these:
+    3848 (3.92%) aligned 0 times
+    75763 (77.25%) aligned exactly 1 time
+    18470 (18.83%) aligned >1 times
+96.08% overall alignment rate
+1180279 reads; of these:
+  1180279 (100.00%) were unpaired; of these:
+    23582 (2.00%) aligned 0 times
+    992576 (84.10%) aligned exactly 1 time
+    164121 (13.91%) aligned >1 times
+98.00% overall alignment rate
+749265 reads; of these:
+  749265 (100.00%) were unpaired; of these:
+    223533 (29.83%) aligned 0 times
+    444870 (59.37%) aligned exactly 1 time
+    80862 (10.79%) aligned >1 times
+70.17% overall alignment rate
+2217312 reads; of these:
+  2217312 (100.00%) were unpaired; of these:
+    32768 (1.48%) aligned 0 times
+    1873538 (84.50%) aligned exactly 1 time
+    311006 (14.03%) aligned >1 times
+98.52% overall alignment rate
+957359 reads; of these:
+  957359 (100.00%) were unpaired; of these:
+    822088 (85.87%) aligned 0 times
+    112107 (11.71%) aligned exactly 1 time
+    23164 (2.42%) aligned >1 times
+14.13% overall alignment rate
+704550 reads; of these:
+  704550 (100.00%) were unpaired; of these:
+    67997 (9.65%) aligned 0 times
+    553421 (78.55%) aligned exactly 1 time
+    83132 (11.80%) aligned >1 times
+90.35% overall alignment rate
+263782 reads; of these:
+  263782 (100.00%) were unpaired; of these:
+    4080 (1.55%) aligned 0 times
+    216227 (81.97%) aligned exactly 1 time
+    43475 (16.48%) aligned >1 times
+98.45% overall alignment rate
+1830630 reads; of these:
+  1830630 (100.00%) were unpaired; of these:
+    37442 (2.05%) aligned 0 times
+    1533000 (83.74%) aligned exactly 1 time
+    260188 (14.21%) aligned >1 times
+97.95% overall alignment rate
+929153 reads; of these:
+  929153 (100.00%) were unpaired; of these:
+    16890 (1.82%) aligned 0 times
+    773853 (83.29%) aligned exactly 1 time
+    138410 (14.90%) aligned >1 times
+98.18% overall alignment rate
+903932 reads; of these:
+  903932 (100.00%) were unpaired; of these:
+    8666 (0.96%) aligned 0 times
+    776302 (85.88%) aligned exactly 1 time
+    118964 (13.16%) aligned >1 times
+99.04% overall alignment rate
+935976 reads; of these:
+  935976 (100.00%) were unpaired; of these:
+    13284 (1.42%) aligned 0 times
+    801455 (85.63%) aligned exactly 1 time
+    121237 (12.95%) aligned >1 times
+98.58% overall alignment rate
+659273 reads; of these:
+  659273 (100.00%) were unpaired; of these:
+    14913 (2.26%) aligned 0 times
+    550502 (83.50%) aligned exactly 1 time
+    93858 (14.24%) aligned >1 times
+97.74% overall alignment rate
+1017127 reads; of these:
+  1017127 (100.00%) were unpaired; of these:
+    9140 (0.90%) aligned 0 times
+    863520 (84.90%) aligned exactly 1 time
+    144467 (14.20%) aligned >1 times
+99.10% overall alignment rate
+1154272 reads; of these:
+  1154272 (100.00%) were unpaired; of these:
+    207783 (18.00%) aligned 0 times
+    805013 (69.74%) aligned exactly 1 time
+    141476 (12.26%) aligned >1 times
+82.00% overall alignment rate
+1233060 reads; of these:
+  1233060 (100.00%) were unpaired; of these:
+    44651 (3.62%) aligned 0 times
+    1027459 (83.33%) aligned exactly 1 time
+    160950 (13.05%) aligned >1 times
+96.38% overall alignment rate
+1420323 reads; of these:
+  1420323 (100.00%) were unpaired; of these:
+    27678 (1.95%) aligned 0 times
+    1214362 (85.50%) aligned exactly 1 time
+    178283 (12.55%) aligned >1 times
+98.05% overall alignment rate
+1459228 reads; of these:
+  1459228 (100.00%) were unpaired; of these:
+    21356 (1.46%) aligned 0 times
+    1237672 (84.82%) aligned exactly 1 time
+    200200 (13.72%) aligned >1 times
+98.54% overall alignment rate
+1274617 reads; of these:
+  1274617 (100.00%) were unpaired; of these:
+    78713 (6.18%) aligned 0 times
+    1029766 (80.79%) aligned exactly 1 time
+    166138 (13.03%) aligned >1 times
+93.82% overall alignment rate
+1880698 reads; of these:
+  1880698 (100.00%) were unpaired; of these:
+    788085 (41.90%) aligned 0 times
+    924736 (49.17%) aligned exactly 1 time
+    167877 (8.93%) aligned >1 times
+58.10% overall alignment rate
+1192361 reads; of these:
+  1192361 (100.00%) were unpaired; of these:
+    36760 (3.08%) aligned 0 times
+    998925 (83.78%) aligned exactly 1 time
+    156676 (13.14%) aligned >1 times
+96.92% overall alignment rate
+1368835 reads; of these:
+  1368835 (100.00%) were unpaired; of these:
+    17290 (1.26%) aligned 0 times
+    1167965 (85.33%) aligned exactly 1 time
+    183580 (13.41%) aligned >1 times
+98.74% overall alignment rate
+977960 reads; of these:
+  977960 (100.00%) were unpaired; of these:
+    39971 (4.09%) aligned 0 times
+    804578 (82.27%) aligned exactly 1 time
+    133411 (13.64%) aligned >1 times
+95.91% overall alignment rate
+658714 reads; of these:
+  658714 (100.00%) were unpaired; of these:
+    14174 (2.15%) aligned 0 times
+    556849 (84.54%) aligned exactly 1 time
+    87691 (13.31%) aligned >1 times
+97.85% overall alignment rate
+1404312 reads; of these:
+  1404312 (100.00%) were unpaired; of these:
+    27885 (1.99%) aligned 0 times
+    1179557 (84.00%) aligned exactly 1 time
+    196870 (14.02%) aligned >1 times
+98.01% overall alignment rate
+683524 reads; of these:
+  683524 (100.00%) were unpaired; of these:
+    10559 (1.54%) aligned 0 times
+    579857 (84.83%) aligned exactly 1 time
+    93108 (13.62%) aligned >1 times
+98.46% overall alignment rate
+270693 reads; of these:
+  270693 (100.00%) were unpaired; of these:
+    11638 (4.30%) aligned 0 times
+    219870 (81.22%) aligned exactly 1 time
+    39185 (14.48%) aligned >1 times
+95.70% overall alignment rate
+591724 reads; of these:
+  591724 (100.00%) were unpaired; of these:
+    19014 (3.21%) aligned 0 times
+    480804 (81.25%) aligned exactly 1 time
+    91906 (15.53%) aligned >1 times
+96.79% overall alignment rate
+1136496 reads; of these:
+  1136496 (100.00%) were unpaired; of these:
+    103742 (9.13%) aligned 0 times
+    890016 (78.31%) aligned exactly 1 time
+    142738 (12.56%) aligned >1 times
+90.87% overall alignment rate
+319398 reads; of these:
+  319398 (100.00%) were unpaired; of these:
+    34410 (10.77%) aligned 0 times
+    236354 (74.00%) aligned exactly 1 time
+    48634 (15.23%) aligned >1 times
+89.23% overall alignment rate
+389549 reads; of these:
+  389549 (100.00%) were unpaired; of these:
+    3373 (0.87%) aligned 0 times
+    330388 (84.81%) aligned exactly 1 time
+    55788 (14.32%) aligned >1 times
+99.13% overall alignment rate
+551918 reads; of these:
+  551918 (100.00%) were unpaired; of these:
+    19839 (3.59%) aligned 0 times
+    459167 (83.19%) aligned exactly 1 time
+    72912 (13.21%) aligned >1 times
+96.41% overall alignment rate
+1295189 reads; of these:
+  1295189 (100.00%) were unpaired; of these:
+    198516 (15.33%) aligned 0 times
+    953007 (73.58%) aligned exactly 1 time
+    143666 (11.09%) aligned >1 times
+84.67% overall alignment rate
+2578001 reads; of these:
+  2578001 (100.00%) were unpaired; of these:
+    975492 (37.84%) aligned 0 times
+    1378871 (53.49%) aligned exactly 1 time
+    223638 (8.67%) aligned >1 times
+62.16% overall alignment rate
+1457849 reads; of these:
+  1457849 (100.00%) were unpaired; of these:
+    23339 (1.60%) aligned 0 times
+    1246216 (85.48%) aligned exactly 1 time
+    188294 (12.92%) aligned >1 times
+98.40% overall alignment rate
+697379 reads; of these:
+  697379 (100.00%) were unpaired; of these:
+    12804 (1.84%) aligned 0 times
+    582558 (83.54%) aligned exactly 1 time
+    102017 (14.63%) aligned >1 times
+98.16% overall alignment rate
+667103 reads; of these:
+  667103 (100.00%) were unpaired; of these:
+    8924 (1.34%) aligned 0 times
+    554652 (83.14%) aligned exactly 1 time
+    103527 (15.52%) aligned >1 times
+98.66% overall alignment rate
+168331 reads; of these:
+  168331 (100.00%) were unpaired; of these:
+    5777 (3.43%) aligned 0 times
+    134170 (79.71%) aligned exactly 1 time
+    28384 (16.86%) aligned >1 times
+96.57% overall alignment rate
+541846 reads; of these:
+  541846 (100.00%) were unpaired; of these:
+    44654 (8.24%) aligned 0 times
+    425007 (78.44%) aligned exactly 1 time
+    72185 (13.32%) aligned >1 times
+91.76% overall alignment rate
+543946 reads; of these:
+  543946 (100.00%) were unpaired; of these:
+    7606 (1.40%) aligned 0 times
+    456791 (83.98%) aligned exactly 1 time
+    79549 (14.62%) aligned >1 times
+98.60% overall alignment rate
+985550 reads; of these:
+  985550 (100.00%) were unpaired; of these:
+    12929 (1.31%) aligned 0 times
+    841252 (85.36%) aligned exactly 1 time
+    131369 (13.33%) aligned >1 times
+98.69% overall alignment rate
+617587 reads; of these:
+  617587 (100.00%) were unpaired; of these:
+    20709 (3.35%) aligned 0 times
+    515849 (83.53%) aligned exactly 1 time
+    81029 (13.12%) aligned >1 times
+96.65% overall alignment rate
+439279 reads; of these:
+  439279 (100.00%) were unpaired; of these:
+    24479 (5.57%) aligned 0 times
+    355347 (80.89%) aligned exactly 1 time
+    59453 (13.53%) aligned >1 times
+94.43% overall alignment rate
+605321 reads; of these:
+  605321 (100.00%) were unpaired; of these:
+    22536 (3.72%) aligned 0 times
+    497721 (82.22%) aligned exactly 1 time
+    85064 (14.05%) aligned >1 times
+96.28% overall alignment rate
+1089948 reads; of these:
+  1089948 (100.00%) were unpaired; of these:
+    296782 (27.23%) aligned 0 times
+    680156 (62.40%) aligned exactly 1 time
+    113010 (10.37%) aligned >1 times
+72.77% overall alignment rate
+2148131 reads; of these:
+  2148131 (100.00%) were unpaired; of these:
+    550107 (25.61%) aligned 0 times
+    1388906 (64.66%) aligned exactly 1 time
+    209118 (9.73%) aligned >1 times
+74.39% overall alignment rate
+1083128 reads; of these:
+  1083128 (100.00%) were unpaired; of these:
+    95708 (8.84%) aligned 0 times
+    849903 (78.47%) aligned exactly 1 time
+    137517 (12.70%) aligned >1 times
+91.16% overall alignment rate
+1373298 reads; of these:
+  1373298 (100.00%) were unpaired; of these:
+    54404 (3.96%) aligned 0 times
+    1132766 (82.49%) aligned exactly 1 time
+    186128 (13.55%) aligned >1 times
+96.04% overall alignment rate
+63588 reads; of these:
+  63588 (100.00%) were unpaired; of these:
+    808 (1.27%) aligned 0 times
+    50578 (79.54%) aligned exactly 1 time
+    12202 (19.19%) aligned >1 times
+98.73% overall alignment rate
+1275913 reads; of these:
+  1275913 (100.00%) were unpaired; of these:
+    28548 (2.24%) aligned 0 times
+    1080735 (84.70%) aligned exactly 1 time
+    166630 (13.06%) aligned >1 times
+97.76% overall alignment rate
+1695957 reads; of these:
+  1695957 (100.00%) were unpaired; of these:
+    870757 (51.34%) aligned 0 times
+    696179 (41.05%) aligned exactly 1 time
+    129021 (7.61%) aligned >1 times
+48.66% overall alignment rate
+401908 reads; of these:
+  401908 (100.00%) were unpaired; of these:
+    5095 (1.27%) aligned 0 times
+    330492 (82.23%) aligned exactly 1 time
+    66321 (16.50%) aligned >1 times
+98.73% overall alignment rate
+76685 reads; of these:
+  76685 (100.00%) were unpaired; of these:
+    4628 (6.04%) aligned 0 times
+    57193 (74.58%) aligned exactly 1 time
+    14864 (19.38%) aligned >1 times
+93.96% overall alignment rate
+903962 reads; of these:
+  903962 (100.00%) were unpaired; of these:
+    76551 (8.47%) aligned 0 times
+    711232 (78.68%) aligned exactly 1 time
+    116179 (12.85%) aligned >1 times
+91.53% overall alignment rate
+1904384 reads; of these:
+  1904384 (100.00%) were unpaired; of these:
+    284254 (14.93%) aligned 0 times
+    1384219 (72.69%) aligned exactly 1 time
+    235911 (12.39%) aligned >1 times
+85.07% overall alignment rate
+515705 reads; of these:
+  515705 (100.00%) were unpaired; of these:
+    18568 (3.60%) aligned 0 times
+    430394 (83.46%) aligned exactly 1 time
+    66743 (12.94%) aligned >1 times
+96.40% overall alignment rate
+1308651 reads; of these:
+  1308651 (100.00%) were unpaired; of these:
+    13856 (1.06%) aligned 0 times
+    1111938 (84.97%) aligned exactly 1 time
+    182857 (13.97%) aligned >1 times
+98.94% overall alignment rate
+870700 reads; of these:
+  870700 (100.00%) were unpaired; of these:
+    12023 (1.38%) aligned 0 times
+    742252 (85.25%) aligned exactly 1 time
+    116425 (13.37%) aligned >1 times
+98.62% overall alignment rate
+477350 reads; of these:
+  477350 (100.00%) were unpaired; of these:
+    35232 (7.38%) aligned 0 times
+    372800 (78.10%) aligned exactly 1 time
+    69318 (14.52%) aligned >1 times
+92.62% overall alignment rate
+2439640 reads; of these:
+  2439640 (100.00%) were unpaired; of these:
+    652203 (26.73%) aligned 0 times
+    1530160 (62.72%) aligned exactly 1 time
+    257277 (10.55%) aligned >1 times
+73.27% overall alignment rate
+2082149 reads; of these:
+  2082149 (100.00%) were unpaired; of these:
+    37569 (1.80%) aligned 0 times
+    1766746 (84.85%) aligned exactly 1 time
+    277834 (13.34%) aligned >1 times
+98.20% overall alignment rate
+1675009 reads; of these:
+  1675009 (100.00%) were unpaired; of these:
+    378818 (22.62%) aligned 0 times
+    1141901 (68.17%) aligned exactly 1 time
+    154290 (9.21%) aligned >1 times
+77.38% overall alignment rate
+1313181 reads; of these:
+  1313181 (100.00%) were unpaired; of these:
+    732916 (55.81%) aligned 0 times
+    489465 (37.27%) aligned exactly 1 time
+    90800 (6.91%) aligned >1 times
+44.19% overall alignment rate
+201030 reads; of these:
+  201030 (100.00%) were unpaired; of these:
+    146944 (73.10%) aligned 0 times
+    41487 (20.64%) aligned exactly 1 time
+    12599 (6.27%) aligned >1 times
+26.90% overall alignment rate
+1773160 reads; of these:
+  1773160 (100.00%) were unpaired; of these:
+    207035 (11.68%) aligned 0 times
+    1352060 (76.25%) aligned exactly 1 time
+    214065 (12.07%) aligned >1 times
+88.32% overall alignment rate
+1863770 reads; of these:
+  1863770 (100.00%) were unpaired; of these:
+    610475 (32.75%) aligned 0 times
+    1067638 (57.28%) aligned exactly 1 time
+    185657 (9.96%) aligned >1 times
+67.25% overall alignment rate
+345634 reads; of these:
+  345634 (100.00%) were unpaired; of these:
+    4224 (1.22%) aligned 0 times
+    294037 (85.07%) aligned exactly 1 time
+    47373 (13.71%) aligned >1 times
+98.78% overall alignment rate
+523262 reads; of these:
+  523262 (100.00%) were unpaired; of these:
+    14698 (2.81%) aligned 0 times
+    427473 (81.69%) aligned exactly 1 time
+    81091 (15.50%) aligned >1 times
+97.19% overall alignment rate
+294060 reads; of these:
+  294060 (100.00%) were unpaired; of these:
+    10934 (3.72%) aligned 0 times
+    236292 (80.36%) aligned exactly 1 time
+    46834 (15.93%) aligned >1 times
+96.28% overall alignment rate
+580561 reads; of these:
+  580561 (100.00%) were unpaired; of these:
+    32964 (5.68%) aligned 0 times
+    477557 (82.26%) aligned exactly 1 time
+    70040 (12.06%) aligned >1 times
+94.32% overall alignment rate
+1333173 reads; of these:
+  1333173 (100.00%) were unpaired; of these:
+    17165 (1.29%) aligned 0 times
+    1132731 (84.97%) aligned exactly 1 time
+    183277 (13.75%) aligned >1 times
+98.71% overall alignment rate
+1247079 reads; of these:
+  1247079 (100.00%) were unpaired; of these:
+    32725 (2.62%) aligned 0 times
+    1063102 (85.25%) aligned exactly 1 time
+    151252 (12.13%) aligned >1 times
+97.38% overall alignment rate
+1189310 reads; of these:
+  1189310 (100.00%) were unpaired; of these:
+    98292 (8.26%) aligned 0 times
+    937515 (78.83%) aligned exactly 1 time
+    153503 (12.91%) aligned >1 times
+91.74% overall alignment rate
+448397 reads; of these:
+  448397 (100.00%) were unpaired; of these:
+    295505 (65.90%) aligned 0 times
+    112703 (25.13%) aligned exactly 1 time
+    40189 (8.96%) aligned >1 times
+34.10% overall alignment rate
+1544888 reads; of these:
+  1544888 (100.00%) were unpaired; of these:
+    51872 (3.36%) aligned 0 times
+    1305886 (84.53%) aligned exactly 1 time
+    187130 (12.11%) aligned >1 times
+96.64% overall alignment rate
+1291950 reads; of these:
+  1291950 (100.00%) were unpaired; of these:
+    79714 (6.17%) aligned 0 times
+    1049680 (81.25%) aligned exactly 1 time
+    162556 (12.58%) aligned >1 times
+93.83% overall alignment rate
+74118 reads; of these:
+  74118 (100.00%) were unpaired; of these:
+    1803 (2.43%) aligned 0 times
+    58371 (78.75%) aligned exactly 1 time
+    13944 (18.81%) aligned >1 times
+97.57% overall alignment rate
+1305594 reads; of these:
+  1305594 (100.00%) were unpaired; of these:
+    244653 (18.74%) aligned 0 times
+    915296 (70.11%) aligned exactly 1 time
+    145645 (11.16%) aligned >1 times
+81.26% overall alignment rate
+1547217 reads; of these:
+  1547217 (100.00%) were unpaired; of these:
+    334273 (21.60%) aligned 0 times
+    1044336 (67.50%) aligned exactly 1 time
+    168608 (10.90%) aligned >1 times
+78.40% overall alignment rate
+1997305 reads; of these:
+  1997305 (100.00%) were unpaired; of these:
+    776746 (38.89%) aligned 0 times
+    1060795 (53.11%) aligned exactly 1 time
+    159764 (8.00%) aligned >1 times
+61.11% overall alignment rate
+1654817 reads; of these:
+  1654817 (100.00%) were unpaired; of these:
+    28230 (1.71%) aligned 0 times
+    1413710 (85.43%) aligned exactly 1 time
+    212877 (12.86%) aligned >1 times
+98.29% overall alignment rate
+453337 reads; of these:
+  453337 (100.00%) were unpaired; of these:
+    14919 (3.29%) aligned 0 times
+    372219 (82.11%) aligned exactly 1 time
+    66199 (14.60%) aligned >1 times
+96.71% overall alignment rate
+82950 reads; of these:
+  82950 (100.00%) were unpaired; of these:
+    1717 (2.07%) aligned 0 times
+    65606 (79.09%) aligned exactly 1 time
+    15627 (18.84%) aligned >1 times
+97.93% overall alignment rate
+1345995 reads; of these:
+  1345995 (100.00%) were unpaired; of these:
+    305926 (22.73%) aligned 0 times
+    900536 (66.90%) aligned exactly 1 time
+    139533 (10.37%) aligned >1 times
+77.27% overall alignment rate
+564465 reads; of these:
+  564465 (100.00%) were unpaired; of these:
+    6092 (1.08%) aligned 0 times
+    479082 (84.87%) aligned exactly 1 time
+    79291 (14.05%) aligned >1 times
+98.92% overall alignment rate
+1217671 reads; of these:
+  1217671 (100.00%) were unpaired; of these:
+    544882 (44.75%) aligned 0 times
+    558848 (45.89%) aligned exactly 1 time
+    113941 (9.36%) aligned >1 times
+55.25% overall alignment rate
+706535 reads; of these:
+  706535 (100.00%) were unpaired; of these:
+    83270 (11.79%) aligned 0 times
+    544542 (77.07%) aligned exactly 1 time
+    78723 (11.14%) aligned >1 times
+88.21% overall alignment rate
+1222526 reads; of these:
+  1222526 (100.00%) were unpaired; of these:
+    16737 (1.37%) aligned 0 times
+    1029495 (84.21%) aligned exactly 1 time
+    176294 (14.42%) aligned >1 times
+98.63% overall alignment rate
+740708 reads; of these:
+  740708 (100.00%) were unpaired; of these:
+    12802 (1.73%) aligned 0 times
+    610382 (82.41%) aligned exactly 1 time
+    117524 (15.87%) aligned >1 times
+98.27% overall alignment rate
+949768 reads; of these:
+  949768 (100.00%) were unpaired; of these:
+    17109 (1.80%) aligned 0 times
+    811286 (85.42%) aligned exactly 1 time
+    121373 (12.78%) aligned >1 times
+98.20% overall alignment rate
+756315 reads; of these:
+  756315 (100.00%) were unpaired; of these:
+    136142 (18.00%) aligned 0 times
+    529319 (69.99%) aligned exactly 1 time
+    90854 (12.01%) aligned >1 times
+82.00% overall alignment rate
+871240 reads; of these:
+  871240 (100.00%) were unpaired; of these:
+    70341 (8.07%) aligned 0 times
+    691316 (79.35%) aligned exactly 1 time
+    109583 (12.58%) aligned >1 times
+91.93% overall alignment rate
+834687 reads; of these:
+  834687 (100.00%) were unpaired; of these:
+    138013 (16.53%) aligned 0 times
+    594398 (71.21%) aligned exactly 1 time
+    102276 (12.25%) aligned >1 times
+83.47% overall alignment rate
+262226 reads; of these:
+  262226 (100.00%) were unpaired; of these:
+    13454 (5.13%) aligned 0 times
+    209130 (79.75%) aligned exactly 1 time
+    39642 (15.12%) aligned >1 times
+94.87% overall alignment rate
+1139109 reads; of these:
+  1139109 (100.00%) were unpaired; of these:
+    15252 (1.34%) aligned 0 times
+    972658 (85.39%) aligned exactly 1 time
+    151199 (13.27%) aligned >1 times
+98.66% overall alignment rate
+491707 reads; of these:
+  491707 (100.00%) were unpaired; of these:
+    10419 (2.12%) aligned 0 times
+    412883 (83.97%) aligned exactly 1 time
+    68405 (13.91%) aligned >1 times
+97.88% overall alignment rate
+562885 reads; of these:
+  562885 (100.00%) were unpaired; of these:
+    21792 (3.87%) aligned 0 times
+    458778 (81.50%) aligned exactly 1 time
+    82315 (14.62%) aligned >1 times
+96.13% overall alignment rate
+2440935 reads; of these:
+  2440935 (100.00%) were unpaired; of these:
+    30101 (1.23%) aligned 0 times
+    2096738 (85.90%) aligned exactly 1 time
+    314096 (12.87%) aligned >1 times
+98.77% overall alignment rate
+1204867 reads; of these:
+  1204867 (100.00%) were unpaired; of these:
+    100311 (8.33%) aligned 0 times
+    958020 (79.51%) aligned exactly 1 time
+    146536 (12.16%) aligned >1 times
+91.67% overall alignment rate
+853655 reads; of these:
+  853655 (100.00%) were unpaired; of these:
+    11917 (1.40%) aligned 0 times
+    721800 (84.55%) aligned exactly 1 time
+    119938 (14.05%) aligned >1 times
+98.60% overall alignment rate
+1567198 reads; of these:
+  1567198 (100.00%) were unpaired; of these:
+    68047 (4.34%) aligned 0 times
+    1286017 (82.06%) aligned exactly 1 time
+    213134 (13.60%) aligned >1 times
+95.66% overall alignment rate
+1023920 reads; of these:
+  1023920 (100.00%) were unpaired; of these:
+    10189 (1.00%) aligned 0 times
+    870496 (85.02%) aligned exactly 1 time
+    143235 (13.99%) aligned >1 times
+99.00% overall alignment rate
+496420 reads; of these:
+  496420 (100.00%) were unpaired; of these:
+    8190 (1.65%) aligned 0 times
+    416725 (83.95%) aligned exactly 1 time
+    71505 (14.40%) aligned >1 times
+98.35% overall alignment rate
+1229643 reads; of these:
+  1229643 (100.00%) were unpaired; of these:
+    103107 (8.39%) aligned 0 times
+    965244 (78.50%) aligned exactly 1 time
+    161292 (13.12%) aligned >1 times
+91.61% overall alignment rate
+1134220 reads; of these:
+  1134220 (100.00%) were unpaired; of these:
+    66911 (5.90%) aligned 0 times
+    915929 (80.75%) aligned exactly 1 time
+    151380 (13.35%) aligned >1 times
+94.10% overall alignment rate
+675403 reads; of these:
+  675403 (100.00%) were unpaired; of these:
+    7348 (1.09%) aligned 0 times
+    578934 (85.72%) aligned exactly 1 time
+    89121 (13.20%) aligned >1 times
+98.91% overall alignment rate
+1953237 reads; of these:
+  1953237 (100.00%) were unpaired; of these:
+    200640 (10.27%) aligned 0 times
+    1526091 (78.13%) aligned exactly 1 time
+    226506 (11.60%) aligned >1 times
+89.73% overall alignment rate
+1233900 reads; of these:
+  1233900 (100.00%) were unpaired; of these:
+    20786 (1.68%) aligned 0 times
+    1045501 (84.73%) aligned exactly 1 time
+    167613 (13.58%) aligned >1 times
+98.32% overall alignment rate
+669075 reads; of these:
+  669075 (100.00%) were unpaired; of these:
+    8755 (1.31%) aligned 0 times
+    565768 (84.56%) aligned exactly 1 time
+    94552 (14.13%) aligned >1 times
+98.69% overall alignment rate
+282592 reads; of these:
+  282592 (100.00%) were unpaired; of these:
+    6748 (2.39%) aligned 0 times
+    232455 (82.26%) aligned exactly 1 time
+    43389 (15.35%) aligned >1 times
+97.61% overall alignment rate
+184537 reads; of these:
+  184537 (100.00%) were unpaired; of these:
+    3221 (1.75%) aligned 0 times
+    148853 (80.66%) aligned exactly 1 time
+    32463 (17.59%) aligned >1 times
+98.25% overall alignment rate
+1642429 reads; of these:
+  1642429 (100.00%) were unpaired; of these:
+    91645 (5.58%) aligned 0 times
+    1343766 (81.82%) aligned exactly 1 time
+    207018 (12.60%) aligned >1 times
+94.42% overall alignment rate
+696010 reads; of these:
+  696010 (100.00%) were unpaired; of these:
+    43276 (6.22%) aligned 0 times
+    555644 (79.83%) aligned exactly 1 time
+    97090 (13.95%) aligned >1 times
+93.78% overall alignment rate
+1781167 reads; of these:
+  1781167 (100.00%) were unpaired; of these:
+    25991 (1.46%) aligned 0 times
+    1518586 (85.26%) aligned exactly 1 time
+    236590 (13.28%) aligned >1 times
+98.54% overall alignment rate
+1260302 reads; of these:
+  1260302 (100.00%) were unpaired; of these:
+    466396 (37.01%) aligned 0 times
+    676827 (53.70%) aligned exactly 1 time
+    117079 (9.29%) aligned >1 times
+62.99% overall alignment rate
+683140 reads; of these:
+  683140 (100.00%) were unpaired; of these:
+    38270 (5.60%) aligned 0 times
+    540338 (79.10%) aligned exactly 1 time
+    104532 (15.30%) aligned >1 times
+94.40% overall alignment rate
+1066763 reads; of these:
+  1066763 (100.00%) were unpaired; of these:
+    20240 (1.90%) aligned 0 times
+    863221 (80.92%) aligned exactly 1 time
+    183302 (17.18%) aligned >1 times
+98.10% overall alignment rate
+40016 reads; of these:
+  40016 (100.00%) were unpaired; of these:
+    771 (1.93%) aligned 0 times
+    30641 (76.57%) aligned exactly 1 time
+    8604 (21.50%) aligned >1 times
+98.07% overall alignment rate
+1167333 reads; of these:
+  1167333 (100.00%) were unpaired; of these:
+    17618 (1.51%) aligned 0 times
+    981115 (84.05%) aligned exactly 1 time
+    168600 (14.44%) aligned >1 times
+98.49% overall alignment rate
+423204 reads; of these:
+  423204 (100.00%) were unpaired; of these:
+    150388 (35.54%) aligned 0 times
+    226429 (53.50%) aligned exactly 1 time
+    46387 (10.96%) aligned >1 times
+64.46% overall alignment rate
+1747240 reads; of these:
+  1747240 (100.00%) were unpaired; of these:
+    632147 (36.18%) aligned 0 times
+    957934 (54.83%) aligned exactly 1 time
+    157159 (8.99%) aligned >1 times
+63.82% overall alignment rate
+1283994 reads; of these:
+  1283994 (100.00%) were unpaired; of these:
+    27893 (2.17%) aligned 0 times
+    1095856 (85.35%) aligned exactly 1 time
+    160245 (12.48%) aligned >1 times
+97.83% overall alignment rate
+788814 reads; of these:
+  788814 (100.00%) were unpaired; of these:
+    11792 (1.49%) aligned 0 times
+    670311 (84.98%) aligned exactly 1 time
+    106711 (13.53%) aligned >1 times
+98.51% overall alignment rate
+53251 reads; of these:
+  53251 (100.00%) were unpaired; of these:
+    855 (1.61%) aligned 0 times
+    42178 (79.21%) aligned exactly 1 time
+    10218 (19.19%) aligned >1 times
+98.39% overall alignment rate
+1388649 reads; of these:
+  1388649 (100.00%) were unpaired; of these:
+    22099 (1.59%) aligned 0 times
+    1190987 (85.77%) aligned exactly 1 time
+    175563 (12.64%) aligned >1 times
+98.41% overall alignment rate
+1859663 reads; of these:
+  1859663 (100.00%) were unpaired; of these:
+    55306 (2.97%) aligned 0 times
+    1551163 (83.41%) aligned exactly 1 time
+    253194 (13.62%) aligned >1 times
+97.03% overall alignment rate
+1388242 reads; of these:
+  1388242 (100.00%) were unpaired; of these:
+    17904 (1.29%) aligned 0 times
+    1173007 (84.50%) aligned exactly 1 time
+    197331 (14.21%) aligned >1 times
+98.71% overall alignment rate
+206267 reads; of these:
+  206267 (100.00%) were unpaired; of these:
+    182246 (88.35%) aligned 0 times
+    18116 (8.78%) aligned exactly 1 time
+    5905 (2.86%) aligned >1 times
+11.65% overall alignment rate
+27816865 reads; of these:
+  27816865 (100.00%) were unpaired; of these:
+    27500510 (98.86%) aligned 0 times
+    265632 (0.95%) aligned exactly 1 time
+    50723 (0.18%) aligned >1 times
+1.14% overall alignment rate
+243557 reads; of these:
+  243557 (100.00%) were unpaired; of these:
+    4731 (1.94%) aligned 0 times
+    200932 (82.50%) aligned exactly 1 time
+    37894 (15.56%) aligned >1 times
+98.06% overall alignment rate
+961346 reads; of these:
+  961346 (100.00%) were unpaired; of these:
+    16116 (1.68%) aligned 0 times
+    810669 (84.33%) aligned exactly 1 time
+    134561 (14.00%) aligned >1 times
+98.32% overall alignment rate
+228585 reads; of these:
+  228585 (100.00%) were unpaired; of these:
+    128774 (56.34%) aligned 0 times
+    81108 (35.48%) aligned exactly 1 time
+    18703 (8.18%) aligned >1 times
+43.66% overall alignment rate
+291003 reads; of these:
+  291003 (100.00%) were unpaired; of these:
+    4737 (1.63%) aligned 0 times
+    233829 (80.35%) aligned exactly 1 time
+    52437 (18.02%) aligned >1 times
+98.37% overall alignment rate
+209330 reads; of these:
+  209330 (100.00%) were unpaired; of these:
+    2525 (1.21%) aligned 0 times
+    168567 (80.53%) aligned exactly 1 time
+    38238 (18.27%) aligned >1 times
+98.79% overall alignment rate
+105032 reads; of these:
+  105032 (100.00%) were unpaired; of these:
+    1797 (1.71%) aligned 0 times
+    83433 (79.44%) aligned exactly 1 time
+    19802 (18.85%) aligned >1 times
+98.29% overall alignment rate
+2294097 reads; of these:
+  2294097 (100.00%) were unpaired; of these:
+    979977 (42.72%) aligned 0 times
+    1136536 (49.54%) aligned exactly 1 time
+    177584 (7.74%) aligned >1 times
+57.28% overall alignment rate
+1824268 reads; of these:
+  1824268 (100.00%) were unpaired; of these:
+    643900 (35.30%) aligned 0 times
+    1021337 (55.99%) aligned exactly 1 time
+    159031 (8.72%) aligned >1 times
+64.70% overall alignment rate
+275871 reads; of these:
+  275871 (100.00%) were unpaired; of these:
+    7566 (2.74%) aligned 0 times
+    229327 (83.13%) aligned exactly 1 time
+    38978 (14.13%) aligned >1 times
+97.26% overall alignment rate
+1416621 reads; of these:
+  1416621 (100.00%) were unpaired; of these:
+    14007 (0.99%) aligned 0 times
+    1212235 (85.57%) aligned exactly 1 time
+    190379 (13.44%) aligned >1 times
+99.01% overall alignment rate
+464356 reads; of these:
+  464356 (100.00%) were unpaired; of these:
+    18255 (3.93%) aligned 0 times
+    384019 (82.70%) aligned exactly 1 time
+    62082 (13.37%) aligned >1 times
+96.07% overall alignment rate
+781523 reads; of these:
+  781523 (100.00%) were unpaired; of these:
+    12188 (1.56%) aligned 0 times
+    659668 (84.41%) aligned exactly 1 time
+    109667 (14.03%) aligned >1 times
+98.44% overall alignment rate
+1401861 reads; of these:
+  1401861 (100.00%) were unpaired; of these:
+    33494 (2.39%) aligned 0 times
+    1183110 (84.40%) aligned exactly 1 time
+    185257 (13.22%) aligned >1 times
+97.61% overall alignment rate
+1304105 reads; of these:
+  1304105 (100.00%) were unpaired; of these:
+    193302 (14.82%) aligned 0 times
+    965904 (74.07%) aligned exactly 1 time
+    144899 (11.11%) aligned >1 times
+85.18% overall alignment rate
+1031378 reads; of these:
+  1031378 (100.00%) were unpaired; of these:
+    580025 (56.24%) aligned 0 times
+    376603 (36.51%) aligned exactly 1 time
+    74750 (7.25%) aligned >1 times
+43.76% overall alignment rate
+1307455 reads; of these:
+  1307455 (100.00%) were unpaired; of these:
+    20241 (1.55%) aligned 0 times
+    1094215 (83.69%) aligned exactly 1 time
+    192999 (14.76%) aligned >1 times
+98.45% overall alignment rate
+992409 reads; of these:
+  992409 (100.00%) were unpaired; of these:
+    16546 (1.67%) aligned 0 times
+    842094 (84.85%) aligned exactly 1 time
+    133769 (13.48%) aligned >1 times
+98.33% overall alignment rate
+1456479 reads; of these:
+  1456479 (100.00%) were unpaired; of these:
+    147356 (10.12%) aligned 0 times
+    1120970 (76.96%) aligned exactly 1 time
+    188153 (12.92%) aligned >1 times
+89.88% overall alignment rate
+986716 reads; of these:
+  986716 (100.00%) were unpaired; of these:
+    21616 (2.19%) aligned 0 times
+    832554 (84.38%) aligned exactly 1 time
+    132546 (13.43%) aligned >1 times
+97.81% overall alignment rate
+889550 reads; of these:
+  889550 (100.00%) were unpaired; of these:
+    19063 (2.14%) aligned 0 times
+    739558 (83.14%) aligned exactly 1 time
+    130929 (14.72%) aligned >1 times
+97.86% overall alignment rate
+1011699 reads; of these:
+  1011699 (100.00%) were unpaired; of these:
+    17881 (1.77%) aligned 0 times
+    862949 (85.30%) aligned exactly 1 time
+    130869 (12.94%) aligned >1 times
+98.23% overall alignment rate
+1167907 reads; of these:
+  1167907 (100.00%) were unpaired; of these:
+    23079 (1.98%) aligned 0 times
+    1004552 (86.01%) aligned exactly 1 time
+    140276 (12.01%) aligned >1 times
+98.02% overall alignment rate
+669308 reads; of these:
+  669308 (100.00%) were unpaired; of these:
+    13913 (2.08%) aligned 0 times
+    560160 (83.69%) aligned exactly 1 time
+    95235 (14.23%) aligned >1 times
+97.92% overall alignment rate
+2349158 reads; of these:
+  2349158 (100.00%) were unpaired; of these:
+    906814 (38.60%) aligned 0 times
+    1241060 (52.83%) aligned exactly 1 time
+    201284 (8.57%) aligned >1 times
+61.40% overall alignment rate
+1443894 reads; of these:
+  1443894 (100.00%) were unpaired; of these:
+    274642 (19.02%) aligned 0 times
+    1013721 (70.21%) aligned exactly 1 time
+    155531 (10.77%) aligned >1 times
+80.98% overall alignment rate
+1588380 reads; of these:
+  1588380 (100.00%) were unpaired; of these:
+    42845 (2.70%) aligned 0 times
+    1328130 (83.62%) aligned exactly 1 time
+    217405 (13.69%) aligned >1 times
+97.30% overall alignment rate
+809938 reads; of these:
+  809938 (100.00%) were unpaired; of these:
+    485416 (59.93%) aligned 0 times
+    270059 (33.34%) aligned exactly 1 time
+    54463 (6.72%) aligned >1 times
+40.07% overall alignment rate
+540079 reads; of these:
+  540079 (100.00%) were unpaired; of these:
+    24897 (4.61%) aligned 0 times
+    439933 (81.46%) aligned exactly 1 time
+    75249 (13.93%) aligned >1 times
+95.39% overall alignment rate
+782184 reads; of these:
+  782184 (100.00%) were unpaired; of these:
+    90954 (11.63%) aligned 0 times
+    585792 (74.89%) aligned exactly 1 time
+    105438 (13.48%) aligned >1 times
+88.37% overall alignment rate
+1124236 reads; of these:
+  1124236 (100.00%) were unpaired; of these:
+    17051 (1.52%) aligned 0 times
+    959801 (85.37%) aligned exactly 1 time
+    147384 (13.11%) aligned >1 times
+98.48% overall alignment rate
+597144 reads; of these:
+  597144 (100.00%) were unpaired; of these:
+    145203 (24.32%) aligned 0 times
+    390849 (65.45%) aligned exactly 1 time
+    61092 (10.23%) aligned >1 times
+75.68% overall alignment rate
+547421 reads; of these:
+  547421 (100.00%) were unpaired; of these:
+    17093 (3.12%) aligned 0 times
+    463553 (84.68%) aligned exactly 1 time
+    66775 (12.20%) aligned >1 times
+96.88% overall alignment rate
+1325615 reads; of these:
+  1325615 (100.00%) were unpaired; of these:
+    16600 (1.25%) aligned 0 times
+    1132857 (85.46%) aligned exactly 1 time
+    176158 (13.29%) aligned >1 times
+98.75% overall alignment rate
+2087939 reads; of these:
+  2087939 (100.00%) were unpaired; of these:
+    2062971 (98.80%) aligned 0 times
+    19502 (0.93%) aligned exactly 1 time
+    5466 (0.26%) aligned >1 times
+1.20% overall alignment rate
+1650330 reads; of these:
+  1650330 (100.00%) were unpaired; of these:
+    1393843 (84.46%) aligned 0 times
+    142306 (8.62%) aligned exactly 1 time
+    114181 (6.92%) aligned >1 times
+15.54% overall alignment rate
+1380207 reads; of these:
+  1380207 (100.00%) were unpaired; of these:
+    14870 (1.08%) aligned 0 times
+    1177980 (85.35%) aligned exactly 1 time
+    187357 (13.57%) aligned >1 times
+98.92% overall alignment rate
+954978 reads; of these:
+  954978 (100.00%) were unpaired; of these:
+    24509 (2.57%) aligned 0 times
+    801996 (83.98%) aligned exactly 1 time
+    128473 (13.45%) aligned >1 times
+97.43% overall alignment rate
+962197 reads; of these:
+  962197 (100.00%) were unpaired; of these:
+    125732 (13.07%) aligned 0 times
+    718287 (74.65%) aligned exactly 1 time
+    118178 (12.28%) aligned >1 times
+86.93% overall alignment rate
+896109 reads; of these:
+  896109 (100.00%) were unpaired; of these:
+    516416 (57.63%) aligned 0 times
+    321303 (35.86%) aligned exactly 1 time
+    58390 (6.52%) aligned >1 times
+42.37% overall alignment rate
+269496 reads; of these:
+  269496 (100.00%) were unpaired; of these:
+    31790 (11.80%) aligned 0 times
+    197580 (73.31%) aligned exactly 1 time
+    40126 (14.89%) aligned >1 times
+88.20% overall alignment rate
+927671 reads; of these:
+  927671 (100.00%) were unpaired; of these:
+    14642 (1.58%) aligned 0 times
+    788388 (84.99%) aligned exactly 1 time
+    124641 (13.44%) aligned >1 times
+98.42% overall alignment rate
+805398 reads; of these:
+  805398 (100.00%) were unpaired; of these:
+    19820 (2.46%) aligned 0 times
+    683679 (84.89%) aligned exactly 1 time
+    101899 (12.65%) aligned >1 times
+97.54% overall alignment rate
+876235 reads; of these:
+  876235 (100.00%) were unpaired; of these:
+    36883 (4.21%) aligned 0 times
+    729415 (83.24%) aligned exactly 1 time
+    109937 (12.55%) aligned >1 times
+95.79% overall alignment rate
+600890 reads; of these:
+  600890 (100.00%) were unpaired; of these:
+    45457 (7.56%) aligned 0 times
+    480291 (79.93%) aligned exactly 1 time
+    75142 (12.51%) aligned >1 times
+92.44% overall alignment rate
+1030281 reads; of these:
+  1030281 (100.00%) were unpaired; of these:
+    19448 (1.89%) aligned 0 times
+    859877 (83.46%) aligned exactly 1 time
+    150956 (14.65%) aligned >1 times
+98.11% overall alignment rate
+1161461 reads; of these:
+  1161461 (100.00%) were unpaired; of these:
+    15225 (1.31%) aligned 0 times
+    966308 (83.20%) aligned exactly 1 time
+    179928 (15.49%) aligned >1 times
+98.69% overall alignment rate
+680389 reads; of these:
+  680389 (100.00%) were unpaired; of these:
+    10649 (1.57%) aligned 0 times
+    585940 (86.12%) aligned exactly 1 time
+    83800 (12.32%) aligned >1 times
+98.43% overall alignment rate
+1082551 reads; of these:
+  1082551 (100.00%) were unpaired; of these:
+    14426 (1.33%) aligned 0 times
+    907785 (83.86%) aligned exactly 1 time
+    160340 (14.81%) aligned >1 times
+98.67% overall alignment rate
+1603385 reads; of these:
+  1603385 (100.00%) were unpaired; of these:
+    38193 (2.38%) aligned 0 times
+    1367546 (85.29%) aligned exactly 1 time
+    197646 (12.33%) aligned >1 times
+97.62% overall alignment rate
+752883 reads; of these:
+  752883 (100.00%) were unpaired; of these:
+    10107 (1.34%) aligned 0 times
+    643854 (85.52%) aligned exactly 1 time
+    98922 (13.14%) aligned >1 times
+98.66% overall alignment rate
+631734 reads; of these:
+  631734 (100.00%) were unpaired; of these:
+    12839 (2.03%) aligned 0 times
+    537402 (85.07%) aligned exactly 1 time
+    81493 (12.90%) aligned >1 times
+97.97% overall alignment rate
+669630 reads; of these:
+  669630 (100.00%) were unpaired; of these:
+    25573 (3.82%) aligned 0 times
+    557778 (83.30%) aligned exactly 1 time
+    86279 (12.88%) aligned >1 times
+96.18% overall alignment rate
+712713 reads; of these:
+  712713 (100.00%) were unpaired; of these:
+    35614 (5.00%) aligned 0 times
+    589446 (82.70%) aligned exactly 1 time
+    87653 (12.30%) aligned >1 times
+95.00% overall alignment rate
+633794 reads; of these:
+  633794 (100.00%) were unpaired; of these:
+    17967 (2.83%) aligned 0 times
+    525796 (82.96%) aligned exactly 1 time
+    90031 (14.21%) aligned >1 times
+97.17% overall alignment rate
+940497 reads; of these:
+  940497 (100.00%) were unpaired; of these:
+    22598 (2.40%) aligned 0 times
+    786231 (83.60%) aligned exactly 1 time
+    131668 (14.00%) aligned >1 times
+97.60% overall alignment rate
+1285394 reads; of these:
+  1285394 (100.00%) were unpaired; of these:
+    27563 (2.14%) aligned 0 times
+    1087964 (84.64%) aligned exactly 1 time
+    169867 (13.22%) aligned >1 times
+97.86% overall alignment rate
+664078 reads; of these:
+  664078 (100.00%) were unpaired; of these:
+    13174 (1.98%) aligned 0 times
+    568007 (85.53%) aligned exactly 1 time
+    82897 (12.48%) aligned >1 times
+98.02% overall alignment rate
+724450 reads; of these:
+  724450 (100.00%) were unpaired; of these:
+    80836 (11.16%) aligned 0 times
+    542130 (74.83%) aligned exactly 1 time
+    101484 (14.01%) aligned >1 times
+88.84% overall alignment rate
+734154 reads; of these:
+  734154 (100.00%) were unpaired; of these:
+    316224 (43.07%) aligned 0 times
+    354260 (48.25%) aligned exactly 1 time
+    63670 (8.67%) aligned >1 times
+56.93% overall alignment rate
+865366 reads; of these:
+  865366 (100.00%) were unpaired; of these:
+    224704 (25.97%) aligned 0 times
+    552098 (63.80%) aligned exactly 1 time
+    88564 (10.23%) aligned >1 times
+74.03% overall alignment rate
+1385267 reads; of these:
+  1385267 (100.00%) were unpaired; of these:
+    63327 (4.57%) aligned 0 times
+    1137566 (82.12%) aligned exactly 1 time
+    184374 (13.31%) aligned >1 times
+95.43% overall alignment rate
+517543 reads; of these:
+  517543 (100.00%) were unpaired; of these:
+    23607 (4.56%) aligned 0 times
+    416135 (80.41%) aligned exactly 1 time
+    77801 (15.03%) aligned >1 times
+95.44% overall alignment rate
+852807 reads; of these:
+  852807 (100.00%) were unpaired; of these:
+    21850 (2.56%) aligned 0 times
+    714465 (83.78%) aligned exactly 1 time
+    116492 (13.66%) aligned >1 times
+97.44% overall alignment rate
+567989 reads; of these:
+  567989 (100.00%) were unpaired; of these:
+    20294 (3.57%) aligned 0 times
+    472570 (83.20%) aligned exactly 1 time
+    75125 (13.23%) aligned >1 times
+96.43% overall alignment rate
+919132 reads; of these:
+  919132 (100.00%) were unpaired; of these:
+    10739 (1.17%) aligned 0 times
+    788270 (85.76%) aligned exactly 1 time
+    120123 (13.07%) aligned >1 times
+98.83% overall alignment rate
+503748 reads; of these:
+  503748 (100.00%) were unpaired; of these:
+    25345 (5.03%) aligned 0 times
+    406170 (80.63%) aligned exactly 1 time
+    72233 (14.34%) aligned >1 times
+94.97% overall alignment rate
+978938 reads; of these:
+  978938 (100.00%) were unpaired; of these:
+    19827 (2.03%) aligned 0 times
+    827410 (84.52%) aligned exactly 1 time
+    131701 (13.45%) aligned >1 times
+97.97% overall alignment rate
+1397865 reads; of these:
+  1397865 (100.00%) were unpaired; of these:
+    19843 (1.42%) aligned 0 times
+    1201553 (85.96%) aligned exactly 1 time
+    176469 (12.62%) aligned >1 times
+98.58% overall alignment rate
+1364583 reads; of these:
+  1364583 (100.00%) were unpaired; of these:
+    40074 (2.94%) aligned 0 times
+    1153051 (84.50%) aligned exactly 1 time
+    171458 (12.56%) aligned >1 times
+97.06% overall alignment rate
+990152 reads; of these:
+  990152 (100.00%) were unpaired; of these:
+    13013 (1.31%) aligned 0 times
+    831940 (84.02%) aligned exactly 1 time
+    145199 (14.66%) aligned >1 times
+98.69% overall alignment rate
+1140221 reads; of these:
+  1140221 (100.00%) were unpaired; of these:
+    42298 (3.71%) aligned 0 times
+    951559 (83.45%) aligned exactly 1 time
+    146364 (12.84%) aligned >1 times
+96.29% overall alignment rate
+1281716 reads; of these:
+  1281716 (100.00%) were unpaired; of these:
+    15225 (1.19%) aligned 0 times
+    1106846 (86.36%) aligned exactly 1 time
+    159645 (12.46%) aligned >1 times
+98.81% overall alignment rate
+1905602 reads; of these:
+  1905602 (100.00%) were unpaired; of these:
+    391202 (20.53%) aligned 0 times
+    1315494 (69.03%) aligned exactly 1 time
+    198906 (10.44%) aligned >1 times
+79.47% overall alignment rate
+1251287 reads; of these:
+  1251287 (100.00%) were unpaired; of these:
+    17353 (1.39%) aligned 0 times
+    1065099 (85.12%) aligned exactly 1 time
+    168835 (13.49%) aligned >1 times
+98.61% overall alignment rate
+50740 reads; of these:
+  50740 (100.00%) were unpaired; of these:
+    984 (1.94%) aligned 0 times
+    37899 (74.69%) aligned exactly 1 time
+    11857 (23.37%) aligned >1 times
+98.06% overall alignment rate
+1131031 reads; of these:
+  1131031 (100.00%) were unpaired; of these:
+    57151 (5.05%) aligned 0 times
+    934203 (82.60%) aligned exactly 1 time
+    139677 (12.35%) aligned >1 times
+94.95% overall alignment rate
+990554 reads; of these:
+  990554 (100.00%) were unpaired; of these:
+    18149 (1.83%) aligned 0 times
+    852187 (86.03%) aligned exactly 1 time
+    120218 (12.14%) aligned >1 times
+98.17% overall alignment rate
+700837 reads; of these:
+  700837 (100.00%) were unpaired; of these:
+    25869 (3.69%) aligned 0 times
+    582518 (83.12%) aligned exactly 1 time
+    92450 (13.19%) aligned >1 times
+96.31% overall alignment rate
+498033 reads; of these:
+  498033 (100.00%) were unpaired; of these:
+    8496 (1.71%) aligned 0 times
+    408908 (82.10%) aligned exactly 1 time
+    80629 (16.19%) aligned >1 times
+98.29% overall alignment rate
+594076 reads; of these:
+  594076 (100.00%) were unpaired; of these:
+    15909 (2.68%) aligned 0 times
+    489803 (82.45%) aligned exactly 1 time
+    88364 (14.87%) aligned >1 times
+97.32% overall alignment rate
+839253 reads; of these:
+  839253 (100.00%) were unpaired; of these:
+    9296 (1.11%) aligned 0 times
+    721581 (85.98%) aligned exactly 1 time
+    108376 (12.91%) aligned >1 times
+98.89% overall alignment rate
+1466298 reads; of these:
+  1466298 (100.00%) were unpaired; of these:
+    31362 (2.14%) aligned 0 times
+    1239872 (84.56%) aligned exactly 1 time
+    195064 (13.30%) aligned >1 times
+97.86% overall alignment rate
+406844 reads; of these:
+  406844 (100.00%) were unpaired; of these:
+    16971 (4.17%) aligned 0 times
+    333003 (81.85%) aligned exactly 1 time
+    56870 (13.98%) aligned >1 times
+95.83% overall alignment rate
+1262031 reads; of these:
+  1262031 (100.00%) were unpaired; of these:
+    21543 (1.71%) aligned 0 times
+    1072419 (84.98%) aligned exactly 1 time
+    168069 (13.32%) aligned >1 times
+98.29% overall alignment rate
+67392 reads; of these:
+  67392 (100.00%) were unpaired; of these:
+    890 (1.32%) aligned 0 times
+    53962 (80.07%) aligned exactly 1 time
+    12540 (18.61%) aligned >1 times
+98.68% overall alignment rate
+1845209 reads; of these:
+  1845209 (100.00%) were unpaired; of these:
+    47524 (2.58%) aligned 0 times
+    1548102 (83.90%) aligned exactly 1 time
+    249583 (13.53%) aligned >1 times
+97.42% overall alignment rate
+1045358 reads; of these:
+  1045358 (100.00%) were unpaired; of these:
+    76563 (7.32%) aligned 0 times
+    830080 (79.41%) aligned exactly 1 time
+    138715 (13.27%) aligned >1 times
+92.68% overall alignment rate
+1481306 reads; of these:
+  1481306 (100.00%) were unpaired; of these:
+    566113 (38.22%) aligned 0 times
+    779509 (52.62%) aligned exactly 1 time
+    135684 (9.16%) aligned >1 times
+61.78% overall alignment rate
+940968 reads; of these:
+  940968 (100.00%) were unpaired; of these:
+    32160 (3.42%) aligned 0 times
+    786107 (83.54%) aligned exactly 1 time
+    122701 (13.04%) aligned >1 times
+96.58% overall alignment rate
+291889 reads; of these:
+  291889 (100.00%) were unpaired; of these:
+    8960 (3.07%) aligned 0 times
+    238563 (81.73%) aligned exactly 1 time
+    44366 (15.20%) aligned >1 times
+96.93% overall alignment rate
+300012 reads; of these:
+  300012 (100.00%) were unpaired; of these:
+    28130 (9.38%) aligned 0 times
+    228322 (76.10%) aligned exactly 1 time
+    43560 (14.52%) aligned >1 times
+90.62% overall alignment rate
+419522 reads; of these:
+  419522 (100.00%) were unpaired; of these:
+    17455 (4.16%) aligned 0 times
+    341033 (81.29%) aligned exactly 1 time
+    61034 (14.55%) aligned >1 times
+95.84% overall alignment rate
+1047715 reads; of these:
+  1047715 (100.00%) were unpaired; of these:
+    256896 (24.52%) aligned 0 times
+    673953 (64.33%) aligned exactly 1 time
+    116866 (11.15%) aligned >1 times
+75.48% overall alignment rate
+522937 reads; of these:
+  522937 (100.00%) were unpaired; of these:
+    19770 (3.78%) aligned 0 times
+    436820 (83.53%) aligned exactly 1 time
+    66347 (12.69%) aligned >1 times
+96.22% overall alignment rate
+1026056 reads; of these:
+  1026056 (100.00%) were unpaired; of these:
+    19211 (1.87%) aligned 0 times
+    879938 (85.76%) aligned exactly 1 time
+    126907 (12.37%) aligned >1 times
+98.13% overall alignment rate
+692600 reads; of these:
+  692600 (100.00%) were unpaired; of these:
+    12214 (1.76%) aligned 0 times
+    582078 (84.04%) aligned exactly 1 time
+    98308 (14.19%) aligned >1 times
+98.24% overall alignment rate
+1813923 reads; of these:
+  1813923 (100.00%) were unpaired; of these:
+    67403 (3.72%) aligned 0 times
+    1521673 (83.89%) aligned exactly 1 time
+    224847 (12.40%) aligned >1 times
+96.28% overall alignment rate
+1621450 reads; of these:
+  1621450 (100.00%) were unpaired; of these:
+    327985 (20.23%) aligned 0 times
+    1115666 (68.81%) aligned exactly 1 time
+    177799 (10.97%) aligned >1 times
+79.77% overall alignment rate
+16688043 reads; of these:
+  16688043 (100.00%) were unpaired; of these:
+    16246428 (97.35%) aligned 0 times
+    376610 (2.26%) aligned exactly 1 time
+    65005 (0.39%) aligned >1 times
+2.65% overall alignment rate
+636983 reads; of these:
+  636983 (100.00%) were unpaired; of these:
+    32224 (5.06%) aligned 0 times
+    509636 (80.01%) aligned exactly 1 time
+    95123 (14.93%) aligned >1 times
+94.94% overall alignment rate
+1806779 reads; of these:
+  1806779 (100.00%) were unpaired; of these:
+    48221 (2.67%) aligned 0 times
+    1514187 (83.81%) aligned exactly 1 time
+    244371 (13.53%) aligned >1 times
+97.33% overall alignment rate
+304225 reads; of these:
+  304225 (100.00%) were unpaired; of these:
+    7575 (2.49%) aligned 0 times
+    251553 (82.69%) aligned exactly 1 time
+    45097 (14.82%) aligned >1 times
+97.51% overall alignment rate
+104459 reads; of these:
+  104459 (100.00%) were unpaired; of these:
+    2451 (2.35%) aligned 0 times
+    82927 (79.39%) aligned exactly 1 time
+    19081 (18.27%) aligned >1 times
+97.65% overall alignment rate
+3542394 reads; of these:
+  3542394 (100.00%) were unpaired; of these:
+    1919601 (54.19%) aligned 0 times
+    1403625 (39.62%) aligned exactly 1 time
+    219168 (6.19%) aligned >1 times
+45.81% overall alignment rate
+2165573 reads; of these:
+  2165573 (100.00%) were unpaired; of these:
+    871925 (40.26%) aligned 0 times
+    1109656 (51.24%) aligned exactly 1 time
+    183992 (8.50%) aligned >1 times
+59.74% overall alignment rate
+741008 reads; of these:
+  741008 (100.00%) were unpaired; of these:
+    142574 (19.24%) aligned 0 times
+    507138 (68.44%) aligned exactly 1 time
+    91296 (12.32%) aligned >1 times
+80.76% overall alignment rate
+1442063 reads; of these:
+  1442063 (100.00%) were unpaired; of these:
+    180873 (12.54%) aligned 0 times
+    1084540 (75.21%) aligned exactly 1 time
+    176650 (12.25%) aligned >1 times
+87.46% overall alignment rate
+949092 reads; of these:
+  949092 (100.00%) were unpaired; of these:
+    23773 (2.50%) aligned 0 times
+    810845 (85.43%) aligned exactly 1 time
+    114474 (12.06%) aligned >1 times
+97.50% overall alignment rate
+1455967 reads; of these:
+  1455967 (100.00%) were unpaired; of these:
+    21042 (1.45%) aligned 0 times
+    1250239 (85.87%) aligned exactly 1 time
+    184686 (12.68%) aligned >1 times
+98.55% overall alignment rate
+893288 reads; of these:
+  893288 (100.00%) were unpaired; of these:
+    66864 (7.49%) aligned 0 times
+    703816 (78.79%) aligned exactly 1 time
+    122608 (13.73%) aligned >1 times
+92.51% overall alignment rate
+898922 reads; of these:
+  898922 (100.00%) were unpaired; of these:
+    156920 (17.46%) aligned 0 times
+    626835 (69.73%) aligned exactly 1 time
+    115167 (12.81%) aligned >1 times
+82.54% overall alignment rate
+687223 reads; of these:
+  687223 (100.00%) were unpaired; of these:
+    25477 (3.71%) aligned 0 times
+    566047 (82.37%) aligned exactly 1 time
+    95699 (13.93%) aligned >1 times
+96.29% overall alignment rate
+401760 reads; of these:
+  401760 (100.00%) were unpaired; of these:
+    4801 (1.19%) aligned 0 times
+    328647 (81.80%) aligned exactly 1 time
+    68312 (17.00%) aligned >1 times
+98.81% overall alignment rate
+2052677 reads; of these:
+  2052677 (100.00%) were unpaired; of these:
+    737012 (35.90%) aligned 0 times
+    1124792 (54.80%) aligned exactly 1 time
+    190873 (9.30%) aligned >1 times
+64.10% overall alignment rate
+1195771 reads; of these:
+  1195771 (100.00%) were unpaired; of these:
+    63049 (5.27%) aligned 0 times
+    970186 (81.13%) aligned exactly 1 time
+    162536 (13.59%) aligned >1 times
+94.73% overall alignment rate
+1392314 reads; of these:
+  1392314 (100.00%) were unpaired; of these:
+    23968 (1.72%) aligned 0 times
+    1179499 (84.72%) aligned exactly 1 time
+    188847 (13.56%) aligned >1 times
+98.28% overall alignment rate
+1414029 reads; of these:
+  1414029 (100.00%) were unpaired; of these:
+    24342 (1.72%) aligned 0 times
+    1218967 (86.21%) aligned exactly 1 time
+    170720 (12.07%) aligned >1 times
+98.28% overall alignment rate
+202000 reads; of these:
+  202000 (100.00%) were unpaired; of these:
+    24825 (12.29%) aligned 0 times
+    143629 (71.10%) aligned exactly 1 time
+    33546 (16.61%) aligned >1 times
+87.71% overall alignment rate
+340831 reads; of these:
+  340831 (100.00%) were unpaired; of these:
+    5290 (1.55%) aligned 0 times
+    277723 (81.48%) aligned exactly 1 time
+    57818 (16.96%) aligned >1 times
+98.45% overall alignment rate
+800534 reads; of these:
+  800534 (100.00%) were unpaired; of these:
+    21138 (2.64%) aligned 0 times
+    662979 (82.82%) aligned exactly 1 time
+    116417 (14.54%) aligned >1 times
+97.36% overall alignment rate
+1110566 reads; of these:
+  1110566 (100.00%) were unpaired; of these:
+    19863 (1.79%) aligned 0 times
+    936316 (84.31%) aligned exactly 1 time
+    154387 (13.90%) aligned >1 times
+98.21% overall alignment rate
+922659 reads; of these:
+  922659 (100.00%) were unpaired; of these:
+    457616 (49.60%) aligned 0 times
+    394636 (42.77%) aligned exactly 1 time
+    70407 (7.63%) aligned >1 times
+50.40% overall alignment rate
+1782827 reads; of these:
+  1782827 (100.00%) were unpaired; of these:
+    25122 (1.41%) aligned 0 times
+    1516507 (85.06%) aligned exactly 1 time
+    241198 (13.53%) aligned >1 times
+98.59% overall alignment rate
+554681 reads; of these:
+  554681 (100.00%) were unpaired; of these:
+    179996 (32.45%) aligned 0 times
+    309774 (55.85%) aligned exactly 1 time
+    64911 (11.70%) aligned >1 times
+67.55% overall alignment rate
+1188398 reads; of these:
+  1188398 (100.00%) were unpaired; of these:
+    42129 (3.55%) aligned 0 times
+    995369 (83.76%) aligned exactly 1 time
+    150900 (12.70%) aligned >1 times
+96.45% overall alignment rate
+1457474 reads; of these:
+  1457474 (100.00%) were unpaired; of these:
+    119585 (8.20%) aligned 0 times
+    1167897 (80.13%) aligned exactly 1 time
+    169992 (11.66%) aligned >1 times
+91.80% overall alignment rate
+1502607 reads; of these:
+  1502607 (100.00%) were unpaired; of these:
+    34556 (2.30%) aligned 0 times
+    1278045 (85.06%) aligned exactly 1 time
+    190006 (12.65%) aligned >1 times
+97.70% overall alignment rate
+1523869 reads; of these:
+  1523869 (100.00%) were unpaired; of these:
+    72722 (4.77%) aligned 0 times
+    1256024 (82.42%) aligned exactly 1 time
+    195123 (12.80%) aligned >1 times
+95.23% overall alignment rate
+1185224 reads; of these:
+  1185224 (100.00%) were unpaired; of these:
+    13332 (1.12%) aligned 0 times
+    1018248 (85.91%) aligned exactly 1 time
+    153644 (12.96%) aligned >1 times
+98.88% overall alignment rate
+325756 reads; of these:
+  325756 (100.00%) were unpaired; of these:
+    5974 (1.83%) aligned 0 times
+    268941 (82.56%) aligned exactly 1 time
+    50841 (15.61%) aligned >1 times
+98.17% overall alignment rate
+1579615 reads; of these:
+  1579615 (100.00%) were unpaired; of these:
+    134376 (8.51%) aligned 0 times
+    1238875 (78.43%) aligned exactly 1 time
+    206364 (13.06%) aligned >1 times
+91.49% overall alignment rate
+844411 reads; of these:
+  844411 (100.00%) were unpaired; of these:
+    18266 (2.16%) aligned 0 times
+    719882 (85.25%) aligned exactly 1 time
+    106263 (12.58%) aligned >1 times
+97.84% overall alignment rate
+470924 reads; of these:
+  470924 (100.00%) were unpaired; of these:
+    122161 (25.94%) aligned 0 times
+    294197 (62.47%) aligned exactly 1 time
+    54566 (11.59%) aligned >1 times
+74.06% overall alignment rate
+88608 reads; of these:
+  88608 (100.00%) were unpaired; of these:
+    38846 (43.84%) aligned 0 times
+    38302 (43.23%) aligned exactly 1 time
+    11460 (12.93%) aligned >1 times
+56.16% overall alignment rate
+436215 reads; of these:
+  436215 (100.00%) were unpaired; of these:
+    5081 (1.16%) aligned 0 times
+    368186 (84.40%) aligned exactly 1 time
+    62948 (14.43%) aligned >1 times
+98.84% overall alignment rate
+488395 reads; of these:
+  488395 (100.00%) were unpaired; of these:
+    9305 (1.91%) aligned 0 times
+    403789 (82.68%) aligned exactly 1 time
+    75301 (15.42%) aligned >1 times
+98.09% overall alignment rate
+39349767 reads; of these:
+  39349767 (100.00%) were unpaired; of these:
+    38878493 (98.80%) aligned 0 times
+    406347 (1.03%) aligned exactly 1 time
+    64927 (0.16%) aligned >1 times
+1.20% overall alignment rate
+1167020 reads; of these:
+  1167020 (100.00%) were unpaired; of these:
+    682286 (58.46%) aligned 0 times
+    408126 (34.97%) aligned exactly 1 time
+    76608 (6.56%) aligned >1 times
+41.54% overall alignment rate
+939841 reads; of these:
+  939841 (100.00%) were unpaired; of these:
+    90578 (9.64%) aligned 0 times
+    738416 (78.57%) aligned exactly 1 time
+    110847 (11.79%) aligned >1 times
+90.36% overall alignment rate
+1221215 reads; of these:
+  1221215 (100.00%) were unpaired; of these:
+    23969 (1.96%) aligned 0 times
+    1015150 (83.13%) aligned exactly 1 time
+    182096 (14.91%) aligned >1 times
+98.04% overall alignment rate
+988831 reads; of these:
+  988831 (100.00%) were unpaired; of these:
+    30005 (3.03%) aligned 0 times
+    826664 (83.60%) aligned exactly 1 time
+    132162 (13.37%) aligned >1 times
+96.97% overall alignment rate
+594221 reads; of these:
+  594221 (100.00%) were unpaired; of these:
+    23068 (3.88%) aligned 0 times
+    487464 (82.03%) aligned exactly 1 time
+    83689 (14.08%) aligned >1 times
+96.12% overall alignment rate
+1900242 reads; of these:
+  1900242 (100.00%) were unpaired; of these:
+    985596 (51.87%) aligned 0 times
+    794234 (41.80%) aligned exactly 1 time
+    120412 (6.34%) aligned >1 times
+48.13% overall alignment rate
+1160191 reads; of these:
+  1160191 (100.00%) were unpaired; of these:
+    60358 (5.20%) aligned 0 times
+    958955 (82.65%) aligned exactly 1 time
+    140878 (12.14%) aligned >1 times
+94.80% overall alignment rate
+78868 reads; of these:
+  78868 (100.00%) were unpaired; of these:
+    1567 (1.99%) aligned 0 times
+    61108 (77.48%) aligned exactly 1 time
+    16193 (20.53%) aligned >1 times
+98.01% overall alignment rate
+1169852 reads; of these:
+  1169852 (100.00%) were unpaired; of these:
+    222520 (19.02%) aligned 0 times
+    803850 (68.71%) aligned exactly 1 time
+    143482 (12.26%) aligned >1 times
+80.98% overall alignment rate
+100779 reads; of these:
+  100779 (100.00%) were unpaired; of these:
+    41231 (40.91%) aligned 0 times
+    46956 (46.59%) aligned exactly 1 time
+    12592 (12.49%) aligned >1 times
+59.09% overall alignment rate
+920209 reads; of these:
+  920209 (100.00%) were unpaired; of these:
+    17164 (1.87%) aligned 0 times
+    781402 (84.92%) aligned exactly 1 time
+    121643 (13.22%) aligned >1 times
+98.13% overall alignment rate
+1072457 reads; of these:
+  1072457 (100.00%) were unpaired; of these:
+    52745 (4.92%) aligned 0 times
+    885839 (82.60%) aligned exactly 1 time
+    133873 (12.48%) aligned >1 times
+95.08% overall alignment rate
+894641 reads; of these:
+  894641 (100.00%) were unpaired; of these:
+    435884 (48.72%) aligned 0 times
+    375809 (42.01%) aligned exactly 1 time
+    82948 (9.27%) aligned >1 times
+51.28% overall alignment rate
+1879839 reads; of these:
+  1879839 (100.00%) were unpaired; of these:
+    764049 (40.64%) aligned 0 times
+    963738 (51.27%) aligned exactly 1 time
+    152052 (8.09%) aligned >1 times
+59.36% overall alignment rate
+765783 reads; of these:
+  765783 (100.00%) were unpaired; of these:
+    7630 (1.00%) aligned 0 times
+    652479 (85.20%) aligned exactly 1 time
+    105674 (13.80%) aligned >1 times
+99.00% overall alignment rate
+1147138 reads; of these:
+  1147138 (100.00%) were unpaired; of these:
+    20267 (1.77%) aligned 0 times
+    986146 (85.97%) aligned exactly 1 time
+    140725 (12.27%) aligned >1 times
+98.23% overall alignment rate
+1598692 reads; of these:
+  1598692 (100.00%) were unpaired; of these:
+    58782 (3.68%) aligned 0 times
+    1346019 (84.20%) aligned exactly 1 time
+    193891 (12.13%) aligned >1 times
+96.32% overall alignment rate
+1316801 reads; of these:
+  1316801 (100.00%) were unpaired; of these:
+    30803 (2.34%) aligned 0 times
+    1111825 (84.43%) aligned exactly 1 time
+    174173 (13.23%) aligned >1 times
+97.66% overall alignment rate
+369811 reads; of these:
+  369811 (100.00%) were unpaired; of these:
+    31737 (8.58%) aligned 0 times
+    281378 (76.09%) aligned exactly 1 time
+    56696 (15.33%) aligned >1 times
+91.42% overall alignment rate
+47134 reads; of these:
+  47134 (100.00%) were unpaired; of these:
+    2600 (5.52%) aligned 0 times
+    35573 (75.47%) aligned exactly 1 time
+    8961 (19.01%) aligned >1 times
+94.48% overall alignment rate
+1282898 reads; of these:
+  1282898 (100.00%) were unpaired; of these:
+    33584 (2.62%) aligned 0 times
+    1080745 (84.24%) aligned exactly 1 time
+    168569 (13.14%) aligned >1 times
+97.38% overall alignment rate
+392492 reads; of these:
+  392492 (100.00%) were unpaired; of these:
+    54487 (13.88%) aligned 0 times
+    285831 (72.82%) aligned exactly 1 time
+    52174 (13.29%) aligned >1 times
+86.12% overall alignment rate
+838730 reads; of these:
+  838730 (100.00%) were unpaired; of these:
+    7348 (0.88%) aligned 0 times
+    726408 (86.61%) aligned exactly 1 time
+    104974 (12.52%) aligned >1 times
+99.12% overall alignment rate
+1304984 reads; of these:
+  1304984 (100.00%) were unpaired; of these:
+    95992 (7.36%) aligned 0 times
+    1048027 (80.31%) aligned exactly 1 time
+    160965 (12.33%) aligned >1 times
+92.64% overall alignment rate
+1451775 reads; of these:
+  1451775 (100.00%) were unpaired; of these:
+    91899 (6.33%) aligned 0 times
+    1168419 (80.48%) aligned exactly 1 time
+    191457 (13.19%) aligned >1 times
+93.67% overall alignment rate
+650038 reads; of these:
+  650038 (100.00%) were unpaired; of these:
+    23407 (3.60%) aligned 0 times
+    528172 (81.25%) aligned exactly 1 time
+    98459 (15.15%) aligned >1 times
+96.40% overall alignment rate
+670519 reads; of these:
+  670519 (100.00%) were unpaired; of these:
+    250314 (37.33%) aligned 0 times
+    353445 (52.71%) aligned exactly 1 time
+    66760 (9.96%) aligned >1 times
+62.67% overall alignment rate
+934408 reads; of these:
+  934408 (100.00%) were unpaired; of these:
+    48222 (5.16%) aligned 0 times
+    771227 (82.54%) aligned exactly 1 time
+    114959 (12.30%) aligned >1 times
+94.84% overall alignment rate
+884861 reads; of these:
+  884861 (100.00%) were unpaired; of these:
+    314525 (35.55%) aligned 0 times
+    484890 (54.80%) aligned exactly 1 time
+    85446 (9.66%) aligned >1 times
+64.45% overall alignment rate
+1018800 reads; of these:
+  1018800 (100.00%) were unpaired; of these:
+    27839 (2.73%) aligned 0 times
+    863072 (84.71%) aligned exactly 1 time
+    127889 (12.55%) aligned >1 times
+97.27% overall alignment rate
+1405308 reads; of these:
+  1405308 (100.00%) were unpaired; of these:
+    379398 (27.00%) aligned 0 times
+    878654 (62.52%) aligned exactly 1 time
+    147256 (10.48%) aligned >1 times
+73.00% overall alignment rate
+957886 reads; of these:
+  957886 (100.00%) were unpaired; of these:
+    12346 (1.29%) aligned 0 times
+    821262 (85.74%) aligned exactly 1 time
+    124278 (12.97%) aligned >1 times
+98.71% overall alignment rate
+549809 reads; of these:
+  549809 (100.00%) were unpaired; of these:
+    24574 (4.47%) aligned 0 times
+    438642 (79.78%) aligned exactly 1 time
+    86593 (15.75%) aligned >1 times
+95.53% overall alignment rate
+2098645 reads; of these:
+  2098645 (100.00%) were unpaired; of these:
+    385005 (18.35%) aligned 0 times
+    1480892 (70.56%) aligned exactly 1 time
+    232748 (11.09%) aligned >1 times
+81.65% overall alignment rate
+1432983 reads; of these:
+  1432983 (100.00%) were unpaired; of these:
+    228940 (15.98%) aligned 0 times
+    1045458 (72.96%) aligned exactly 1 time
+    158585 (11.07%) aligned >1 times
+84.02% overall alignment rate
+1468659 reads; of these:
+  1468659 (100.00%) were unpaired; of these:
+    419396 (28.56%) aligned 0 times
+    896203 (61.02%) aligned exactly 1 time
+    153060 (10.42%) aligned >1 times
+71.44% overall alignment rate
+320036 reads; of these:
+  320036 (100.00%) were unpaired; of these:
+    11855 (3.70%) aligned 0 times
+    248709 (77.71%) aligned exactly 1 time
+    59472 (18.58%) aligned >1 times
+96.30% overall alignment rate
+463193 reads; of these:
+  463193 (100.00%) were unpaired; of these:
+    21468 (4.63%) aligned 0 times
+    374640 (80.88%) aligned exactly 1 time
+    67085 (14.48%) aligned >1 times
+95.37% overall alignment rate
+589061 reads; of these:
+  589061 (100.00%) were unpaired; of these:
+    9862 (1.67%) aligned 0 times
+    502989 (85.39%) aligned exactly 1 time
+    76210 (12.94%) aligned >1 times
+98.33% overall alignment rate
+11047 reads; of these:
+  11047 (100.00%) were unpaired; of these:
+    952 (8.62%) aligned 0 times
+    7432 (67.28%) aligned exactly 1 time
+    2663 (24.11%) aligned >1 times
+91.38% overall alignment rate
+1506574 reads; of these:
+  1506574 (100.00%) were unpaired; of these:
+    21762 (1.44%) aligned 0 times
+    1302726 (86.47%) aligned exactly 1 time
+    182086 (12.09%) aligned >1 times
+98.56% overall alignment rate
+1783390 reads; of these:
+  1783390 (100.00%) were unpaired; of these:
+    368027 (20.64%) aligned 0 times
+    1214436 (68.10%) aligned exactly 1 time
+    200927 (11.27%) aligned >1 times
+79.36% overall alignment rate
+1058445 reads; of these:
+  1058445 (100.00%) were unpaired; of these:
+    510103 (48.19%) aligned 0 times
+    472051 (44.60%) aligned exactly 1 time
+    76291 (7.21%) aligned >1 times
+51.81% overall alignment rate
+746462 reads; of these:
+  746462 (100.00%) were unpaired; of these:
+    46678 (6.25%) aligned 0 times
+    608828 (81.56%) aligned exactly 1 time
+    90956 (12.18%) aligned >1 times
+93.75% overall alignment rate
+311923 reads; of these:
+  311923 (100.00%) were unpaired; of these:
+    115455 (37.01%) aligned 0 times
+    155605 (49.89%) aligned exactly 1 time
+    40863 (13.10%) aligned >1 times
+62.99% overall alignment rate
+1116103 reads; of these:
+  1116103 (100.00%) were unpaired; of these:
+    19901 (1.78%) aligned 0 times
+    946225 (84.78%) aligned exactly 1 time
+    149977 (13.44%) aligned >1 times
+98.22% overall alignment rate
+1812660 reads; of these:
+  1812660 (100.00%) were unpaired; of these:
+    1338826 (73.86%) aligned 0 times
+    395274 (21.81%) aligned exactly 1 time
+    78560 (4.33%) aligned >1 times
+26.14% overall alignment rate
+896174 reads; of these:
+  896174 (100.00%) were unpaired; of these:
+    14334 (1.60%) aligned 0 times
+    750831 (83.78%) aligned exactly 1 time
+    131009 (14.62%) aligned >1 times
+98.40% overall alignment rate
+862460 reads; of these:
+  862460 (100.00%) were unpaired; of these:
+    129287 (14.99%) aligned 0 times
+    623381 (72.28%) aligned exactly 1 time
+    109792 (12.73%) aligned >1 times
+85.01% overall alignment rate
+928736 reads; of these:
+  928736 (100.00%) were unpaired; of these:
+    30133 (3.24%) aligned 0 times
+    779296 (83.91%) aligned exactly 1 time
+    119307 (12.85%) aligned >1 times
+96.76% overall alignment rate
+373084 reads; of these:
+  373084 (100.00%) were unpaired; of these:
+    5353 (1.43%) aligned 0 times
+    310303 (83.17%) aligned exactly 1 time
+    57428 (15.39%) aligned >1 times
+98.57% overall alignment rate
+638612 reads; of these:
+  638612 (100.00%) were unpaired; of these:
+    93800 (14.69%) aligned 0 times
+    462862 (72.48%) aligned exactly 1 time
+    81950 (12.83%) aligned >1 times
+85.31% overall alignment rate
+1702455 reads; of these:
+  1702455 (100.00%) were unpaired; of these:
+    540434 (31.74%) aligned 0 times
+    988398 (58.06%) aligned exactly 1 time
+    173623 (10.20%) aligned >1 times
+68.26% overall alignment rate
+1458152 reads; of these:
+  1458152 (100.00%) were unpaired; of these:
+    29579 (2.03%) aligned 0 times
+    1246603 (85.49%) aligned exactly 1 time
+    181970 (12.48%) aligned >1 times
+97.97% overall alignment rate
+1266463 reads; of these:
+  1266463 (100.00%) were unpaired; of these:
+    54986 (4.34%) aligned 0 times
+    1044801 (82.50%) aligned exactly 1 time
+    166676 (13.16%) aligned >1 times
+95.66% overall alignment rate
+837561 reads; of these:
+  837561 (100.00%) were unpaired; of these:
+    28342 (3.38%) aligned 0 times
+    700075 (83.58%) aligned exactly 1 time
+    109144 (13.03%) aligned >1 times
+96.62% overall alignment rate
+759650 reads; of these:
+  759650 (100.00%) were unpaired; of these:
+    97733 (12.87%) aligned 0 times
+    560063 (73.73%) aligned exactly 1 time
+    101854 (13.41%) aligned >1 times
+87.13% overall alignment rate
+1264633 reads; of these:
+  1264633 (100.00%) were unpaired; of these:
+    11811 (0.93%) aligned 0 times
+    1100957 (87.06%) aligned exactly 1 time
+    151865 (12.01%) aligned >1 times
+99.07% overall alignment rate
+476708 reads; of these:
+  476708 (100.00%) were unpaired; of these:
+    56951 (11.95%) aligned 0 times
+    359965 (75.51%) aligned exactly 1 time
+    59792 (12.54%) aligned >1 times
+88.05% overall alignment rate
+1109930 reads; of these:
+  1109930 (100.00%) were unpaired; of these:
+    15295 (1.38%) aligned 0 times
+    920956 (82.97%) aligned exactly 1 time
+    173679 (15.65%) aligned >1 times
+98.62% overall alignment rate
+2500213 reads; of these:
+  2500213 (100.00%) were unpaired; of these:
+    1011315 (40.45%) aligned 0 times
+    1276244 (51.05%) aligned exactly 1 time
+    212654 (8.51%) aligned >1 times
+59.55% overall alignment rate
+1253570 reads; of these:
+  1253570 (100.00%) were unpaired; of these:
+    18803 (1.50%) aligned 0 times
+    1070915 (85.43%) aligned exactly 1 time
+    163852 (13.07%) aligned >1 times
+98.50% overall alignment rate
+2957109 reads; of these:
+  2957109 (100.00%) were unpaired; of these:
+    2246433 (75.97%) aligned 0 times
+    603882 (20.42%) aligned exactly 1 time
+    106794 (3.61%) aligned >1 times
+24.03% overall alignment rate
+1035564 reads; of these:
+  1035564 (100.00%) were unpaired; of these:
+    15456 (1.49%) aligned 0 times
+    877269 (84.71%) aligned exactly 1 time
+    142839 (13.79%) aligned >1 times
+98.51% overall alignment rate
+1522418 reads; of these:
+  1522418 (100.00%) were unpaired; of these:
+    25122 (1.65%) aligned 0 times
+    1290111 (84.74%) aligned exactly 1 time
+    207185 (13.61%) aligned >1 times
+98.35% overall alignment rate
+1592170 reads; of these:
+  1592170 (100.00%) were unpaired; of these:
+    86908 (5.46%) aligned 0 times
+    1315126 (82.60%) aligned exactly 1 time
+    190136 (11.94%) aligned >1 times
+94.54% overall alignment rate
+1094442 reads; of these:
+  1094442 (100.00%) were unpaired; of these:
+    16636 (1.52%) aligned 0 times
+    927982 (84.79%) aligned exactly 1 time
+    149824 (13.69%) aligned >1 times
+98.48% overall alignment rate
+1547397 reads; of these:
+  1547397 (100.00%) were unpaired; of these:
+    19942 (1.29%) aligned 0 times
+    1320798 (85.36%) aligned exactly 1 time
+    206657 (13.36%) aligned >1 times
+98.71% overall alignment rate
+1361961 reads; of these:
+  1361961 (100.00%) were unpaired; of these:
+    109045 (8.01%) aligned 0 times
+    1085911 (79.73%) aligned exactly 1 time
+    167005 (12.26%) aligned >1 times
+91.99% overall alignment rate
+397404 reads; of these:
+  397404 (100.00%) were unpaired; of these:
+    9621 (2.42%) aligned 0 times
+    322628 (81.18%) aligned exactly 1 time
+    65155 (16.40%) aligned >1 times
+97.58% overall alignment rate
+770960 reads; of these:
+  770960 (100.00%) were unpaired; of these:
+    9708 (1.26%) aligned 0 times
+    647836 (84.03%) aligned exactly 1 time
+    113416 (14.71%) aligned >1 times
+98.74% overall alignment rate
+823964 reads; of these:
+  823964 (100.00%) were unpaired; of these:
+    39111 (4.75%) aligned 0 times
+    676676 (82.12%) aligned exactly 1 time
+    108177 (13.13%) aligned >1 times
+95.25% overall alignment rate
+1229587 reads; of these:
+  1229587 (100.00%) were unpaired; of these:
+    26331 (2.14%) aligned 0 times
+    1039968 (84.58%) aligned exactly 1 time
+    163288 (13.28%) aligned >1 times
+97.86% overall alignment rate
+668527 reads; of these:
+  668527 (100.00%) were unpaired; of these:
+    6536 (0.98%) aligned 0 times
+    565623 (84.61%) aligned exactly 1 time
+    96368 (14.41%) aligned >1 times
+99.02% overall alignment rate
+15125 reads; of these:
+  15125 (100.00%) were unpaired; of these:
+    4009 (26.51%) aligned 0 times
+    7694 (50.87%) aligned exactly 1 time
+    3422 (22.62%) aligned >1 times
+73.49% overall alignment rate
+1403824 reads; of these:
+  1403824 (100.00%) were unpaired; of these:
+    109896 (7.83%) aligned 0 times
+    1132793 (80.69%) aligned exactly 1 time
+    161135 (11.48%) aligned >1 times
+92.17% overall alignment rate
+1267646 reads; of these:
+  1267646 (100.00%) were unpaired; of these:
+    26810 (2.11%) aligned 0 times
+    1074610 (84.77%) aligned exactly 1 time
+    166226 (13.11%) aligned >1 times
+97.89% overall alignment rate
+909046 reads; of these:
+  909046 (100.00%) were unpaired; of these:
+    8883 (0.98%) aligned 0 times
+    786020 (86.47%) aligned exactly 1 time
+    114143 (12.56%) aligned >1 times
+99.02% overall alignment rate
+994235 reads; of these:
+  994235 (100.00%) were unpaired; of these:
+    266630 (26.82%) aligned 0 times
+    621193 (62.48%) aligned exactly 1 time
+    106412 (10.70%) aligned >1 times
+73.18% overall alignment rate
+773135 reads; of these:
+  773135 (100.00%) were unpaired; of these:
+    12305 (1.59%) aligned 0 times
+    656156 (84.87%) aligned exactly 1 time
+    104674 (13.54%) aligned >1 times
+98.41% overall alignment rate
+1074583 reads; of these:
+  1074583 (100.00%) were unpaired; of these:
+    53477 (4.98%) aligned 0 times
+    883882 (82.25%) aligned exactly 1 time
+    137224 (12.77%) aligned >1 times
+95.02% overall alignment rate
+1051136 reads; of these:
+  1051136 (100.00%) were unpaired; of these:
+    34588 (3.29%) aligned 0 times
+    868370 (82.61%) aligned exactly 1 time
+    148178 (14.10%) aligned >1 times
+96.71% overall alignment rate
+856014 reads; of these:
+  856014 (100.00%) were unpaired; of these:
+    28526 (3.33%) aligned 0 times
+    705521 (82.42%) aligned exactly 1 time
+    121967 (14.25%) aligned >1 times
+96.67% overall alignment rate
+766434 reads; of these:
+  766434 (100.00%) were unpaired; of these:
+    127457 (16.63%) aligned 0 times
+    548915 (71.62%) aligned exactly 1 time
+    90062 (11.75%) aligned >1 times
+83.37% overall alignment rate
+26128 reads; of these:
+  26128 (100.00%) were unpaired; of these:
+    822 (3.15%) aligned 0 times
+    19587 (74.97%) aligned exactly 1 time
+    5719 (21.89%) aligned >1 times
+96.85% overall alignment rate
+77288 reads; of these:
+  77288 (100.00%) were unpaired; of these:
+    3101 (4.01%) aligned 0 times
+    59555 (77.06%) aligned exactly 1 time
+    14632 (18.93%) aligned >1 times
+95.99% overall alignment rate
+169812 reads; of these:
+  169812 (100.00%) were unpaired; of these:
+    35586 (20.96%) aligned 0 times
+    109398 (64.42%) aligned exactly 1 time
+    24828 (14.62%) aligned >1 times
+79.04% overall alignment rate
+879739 reads; of these:
+  879739 (100.00%) were unpaired; of these:
+    23774 (2.70%) aligned 0 times
+    743972 (84.57%) aligned exactly 1 time
+    111993 (12.73%) aligned >1 times
+97.30% overall alignment rate
+1542308 reads; of these:
+  1542308 (100.00%) were unpaired; of these:
+    20997 (1.36%) aligned 0 times
+    1310962 (85.00%) aligned exactly 1 time
+    210349 (13.64%) aligned >1 times
+98.64% overall alignment rate
+277690 reads; of these:
+  277690 (100.00%) were unpaired; of these:
+    16482 (5.94%) aligned 0 times
+    217312 (78.26%) aligned exactly 1 time
+    43896 (15.81%) aligned >1 times
+94.06% overall alignment rate
+2055249 reads; of these:
+  2055249 (100.00%) were unpaired; of these:
+    1307163 (63.60%) aligned 0 times
+    619988 (30.17%) aligned exactly 1 time
+    128098 (6.23%) aligned >1 times
+36.40% overall alignment rate
+1558690 reads; of these:
+  1558690 (100.00%) were unpaired; of these:
+    20052 (1.29%) aligned 0 times
+    1343950 (86.22%) aligned exactly 1 time
+    194688 (12.49%) aligned >1 times
+98.71% overall alignment rate
+189148 reads; of these:
+  189148 (100.00%) were unpaired; of these:
+    10002 (5.29%) aligned 0 times
+    147628 (78.05%) aligned exactly 1 time
+    31518 (16.66%) aligned >1 times
+94.71% overall alignment rate
+1575761 reads; of these:
+  1575761 (100.00%) were unpaired; of these:
+    53049 (3.37%) aligned 0 times
+    1326780 (84.20%) aligned exactly 1 time
+    195932 (12.43%) aligned >1 times
+96.63% overall alignment rate
+99087 reads; of these:
+  99087 (100.00%) were unpaired; of these:
+    80077 (80.81%) aligned 0 times
+    14384 (14.52%) aligned exactly 1 time
+    4626 (4.67%) aligned >1 times
+19.19% overall alignment rate
+1329483 reads; of these:
+  1329483 (100.00%) were unpaired; of these:
+    17148 (1.29%) aligned 0 times
+    1136914 (85.52%) aligned exactly 1 time
+    175421 (13.19%) aligned >1 times
+98.71% overall alignment rate
+865400 reads; of these:
+  865400 (100.00%) were unpaired; of these:
+    37869 (4.38%) aligned 0 times
+    712728 (82.36%) aligned exactly 1 time
+    114803 (13.27%) aligned >1 times
+95.62% overall alignment rate
+43910113 reads; of these:
+  43910113 (100.00%) were unpaired; of these:
+    43642221 (99.39%) aligned 0 times
+    225240 (0.51%) aligned exactly 1 time
+    42652 (0.10%) aligned >1 times
+0.61% overall alignment rate
+1558964 reads; of these:
+  1558964 (100.00%) were unpaired; of these:
+    26318 (1.69%) aligned 0 times
+    1326932 (85.12%) aligned exactly 1 time
+    205714 (13.20%) aligned >1 times
+98.31% overall alignment rate
+138825 reads; of these:
+  138825 (100.00%) were unpaired; of these:
+    1348 (0.97%) aligned 0 times
+    111818 (80.55%) aligned exactly 1 time
+    25659 (18.48%) aligned >1 times
+99.03% overall alignment rate
+3395929 reads; of these:
+  3395929 (100.00%) were unpaired; of these:
+    1677492 (49.40%) aligned 0 times
+    1487583 (43.80%) aligned exactly 1 time
+    230854 (6.80%) aligned >1 times
+50.60% overall alignment rate
+103151 reads; of these:
+  103151 (100.00%) were unpaired; of these:
+    7770 (7.53%) aligned 0 times
+    75869 (73.55%) aligned exactly 1 time
+    19512 (18.92%) aligned >1 times
+92.47% overall alignment rate
+907624 reads; of these:
+  907624 (100.00%) were unpaired; of these:
+    27765 (3.06%) aligned 0 times
+    754729 (83.15%) aligned exactly 1 time
+    125130 (13.79%) aligned >1 times
+96.94% overall alignment rate
+1199154 reads; of these:
+  1199154 (100.00%) were unpaired; of these:
+    53347 (4.45%) aligned 0 times
+    1009532 (84.19%) aligned exactly 1 time
+    136275 (11.36%) aligned >1 times
+95.55% overall alignment rate
