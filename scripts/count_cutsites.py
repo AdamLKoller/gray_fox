@@ -28,10 +28,10 @@ def count_cutsites(filepath: str, target_regex: str, cut_length: int) -> int:
     
 if __name__ == '__main__':
     
-    #filepath = './data/genome/ncbi_dataset/data/GCA_032313775.1/GCA_032313775.1_UCinereo1.0_genomic.fna'
-    filepath = '../DeerProject/genome/genome.fasta'
-    #target_regex = '.[GA].{10}GCA.{6}TCG.{10}C.|.[GA].{10}CGA.{6}TGC.{10}C.' 
-    target_regex = 'GCA.{6}TCG|CGA.{6}TGC'
+    filepath = './data/genome/ncbi_dataset/data/GCA_032313775.1/GCA_032313775.1_UCinereo1.0_genomic.fna'
+    #filepath = '../DeerProject/genome/genome.fasta'
+    target_regex = '.[GA].{10}GCA.{6}TCG.{10}C.|.[GA].{10}CGA.{6}TGC.{10}C.' 
+    #target_regex = 'GCA.{6}TCG|CGA.{6}TGC'
     cut_length = 36
     
     count_cutsites(filepath, target_regex, cut_length)
